@@ -217,23 +217,28 @@ Ty:
 **Czas:** ~3-4 min (+ czas na wykonanie zadania)
 **Cel:** Natychmiastowe zastosowanie, "wow effect", praktyczne narzędzie
 
-#### 🤖 Custom GPT: **Klarowność w 30 sekund**
+#### 🤖 Custom GPT: **ADHD Clarity & Goals V2**
+
+**Tryb:** Clarity (Klarowność w 30 sekund)
 
 **Co robi:**
 Zamienia Twój chaos w czytelną, uporządkowaną listę priorytetów. W 30 sekund.
 
 **Jak używać:**
 
-1. Wejdź do GPT: [link do Custom GPT - "Klarowność w 30 sekund"]
-2. **Wklej WSZYSTKO, co masz w głowie** – chaotycznie, bez cenzury, bez porządkowania
+1. Wejdź do GPT: [link w pakiecie - "ADHD Clarity & Goals V2"]
+2. Napisz: **"Tryb: Clarity"** (lub po prostu wklej chaos - GPT rozpozna automatycznie)
+3. **Wklej WSZYSTKO, co masz w głowie** – chaotycznie, bez cenzury, bez porządkowania
    - Zadania, myśli, obowiązki, przypomnienia, pomysły – wszystko naraz
-3. Kliknij "wyślij"
-4. Poczekaj 30 sekund
-5. Otrzymasz:
+4. Kliknij "wyślij"
+5. Poczekaj 30 sekund
+6. Otrzymasz:
    - ✅ **Priorytety** (zrób dziś)
    - ⏸️ **Do zaparkowania** (zrób w tym tygodniu)
    - 🗑️ **Do odpuszczenia** (nieważne lub deleguj)
    - 🎯 **Jedną rzecz do zrobienia teraz**
+
+**💡 PROTIP:** Narzędzie działa BEZ profilu. Ale jeśli stworzysz **Profil Kontekstowy ADHD** (5-15 min), AI będzie jeszcze lepiej dopasowane do Twojego sposobu myślenia. To opcjonalne!
 
 ---
 
@@ -302,8 +307,9 @@ Teraz: masz plan. Możesz działać.
 - Bez cenzury, bez porządkowania, bez oceniania
 - Im więcej, tym lepiej
 
-**KROK 2: Wklej do GPT "Klarowność w 30 sekund"**
-- Wejdź do narzędzia
+**KROK 2: Wklej do GPT "ADHD Clarity & Goals V2"**
+- Wejdź do narzędzia (link w pakiecie)
+- Napisz "Tryb: Clarity" lub po prostu wklej chaos (GPT rozpozna)
 - Wklej swój chaos
 - Kliknij "wyślij"
 
@@ -323,7 +329,7 @@ Teraz: masz plan. Możesz działać.
 
 #### 📢 Społeczność
 
-**BARDZO WAŻNE:** Podziel się efektem w kanale **#klarownosc-v0**!
+**BARDZO WAŻNE:** Podziel się efektem w kanale **#wow-effect** lub **#clarity-wins**!
 
 Napisz:
 - Ile otwartych pętli miałeś/aś przed użyciem AI?
@@ -363,13 +369,29 @@ To pomoże:
 
 ## ➡️ Następny krok
 
-**Moduł 2: Twój Profil Kontekstowy ADHD (INPUT → PROCESS)**
+### **OPCJONALNIE (ale warto!): Stwórz Profil Kontekstowy ADHD**
+
+Właśnie doświadczyłeś/aś "wow efektu" z **ADHD Clarity & Goals V2**.
+
+Teraz wyobraź sobie, że AI:
+- Zna Twój unikalny profil dopaminowy (co Cię napędza, co gasi)
+- Wie, gdzie się zacinasz w IPO (INPUT/PROCESS/OUTPUT)
+- Dostosowuje odpowiedzi do Twojego stylu myślenia
+
+**To zajmie 5-15 minut** – użyj Custom GPT **"Profil Kontekstowy ADHD"** (link w pakiecie).
+
+Profil możesz potem używać w:
+- ADHD Clarity & Goals V2 (jeszcze lepsze dopasowanie)
+- Claude Projects (pełny ekosystem 5 narzędzi)
+
+**To NIE jest obowiązkowe** – ale znacznie podnosi jakość AI.
+
+---
+
+### **Moduł 2: [tytuł w przygotowaniu]**
 
 W kolejnym module dowiesz się:
-- Kiedy działasz najlepiej, a kiedy najgorzej
-- Jaki jest Twój unikalny "dopaminowy profil"
-- Jak styl myślenia (dywergencyjne vs konwergencyjne) wpływa na Twoje działanie
-- Jak AI może pomóc Ci wyznaczyć cel w 90 sekund
+- [zawartość w przygotowaniu - zależy od feedbacku z Module 1]
 
 ---
 

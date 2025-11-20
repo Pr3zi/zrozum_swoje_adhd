@@ -222,15 +222,18 @@ I tu pojawia się AI.
 **Czas:** ~2-3 min
 **Cel:** Natychmiastowe zastosowanie, "wow effect", praktyczne narzędzie
 
-#### 🤖 Custom GPT: **Zrzut Myśli (Mental Dump)**
+#### 🤖 Narzędzie (OPCJONALNE): **ADHD Clarity & Goals V2** (Tryb: Clarity)
+
+**UWAGA:** To narzędzie jest dostępne w pakiecie. Możesz je użyć teraz lub poczekać do Lekcji 4, gdzie jest szczegółowo wyjaśnione.
 
 **Co robi:**
 Pomaga Ci **wyładować chaos z głowy** i przekształcić go w czytelną strukturę. To jak "zrzut ekranu" wszystkich otwartych tabów mentalnych – AI je zbiera, porządkuje i zamyka niepotrzebne.
 
 **Jak używać:**
 
-1. Wejdź do GPT: [link do Custom GPT - "Zrzut Myśli"]
-2. Wypisz **WSZYSTKO, co masz teraz w głowie** – bez cenzury, bez porządkowania, chaotycznie
+1. Wejdź do GPT: [link w pakiecie - "ADHD Clarity & Goals V2"]
+2. Napisz: **"Tryb: Clarity"** (lub po prostu wklej chaos - rozpozna automatycznie)
+3. Wypisz **WSZYSTKO, co masz teraz w głowie** – bez cenzury, bez porządkowania, chaotycznie
    - Zadania, myśli, emocje, przypomnienia, plany, niepokoje – wszystko
 3. AI przetworzy to i zwróci Ci:
    - **Lista priorytetów** (co naprawdę wymaga działania)
@@ -284,7 +287,7 @@ Teraz: masz plan.
 **Akcja:**
 
 1. **Zrób zrzut myśli** – wypisz WSZYSTKO, co masz w głowie (papier, notatnik, GPT)
-2. Wklej to do GPT **"Zrzut Myśli"**
+2. Wklej to do GPT **"ADHD Clarity & Goals V2"** (Tryb: Clarity)
 3. Przeczytaj odpowiedź AI
 4. **Zrób JEDNĄ rzecz** z listy priorytetów (najlepiej tę najkrótszą)
 5. Zaznacz ją jako "zamkniętą" i poczuj ulgę
@@ -293,7 +296,7 @@ Teraz: masz plan.
 
 #### 📢 Społeczność
 
-Podziel się efektem w kanale **#zrzut-mysli**!
+Podziel się efektem w kanale **#clarity-wins** lub **#wow-effect**!
 
 Napisz:
 - Ile otwartych pętli miałeś/aś?

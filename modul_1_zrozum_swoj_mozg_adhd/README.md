@@ -20,6 +20,34 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 
 ---
 
+## 🚀 Jak przejść ten moduł? (DOPAMINA FIRST!)
+
+### **Opcja A: Szybki start (dla niecierpliwych z ADHD)** ⭐ REKOMENDOWANE
+
+1. **TERAZ** → Wejdź do **ADHD Clarity & Goals V2** (link w pakiecie)
+2. Wklej chaos z głowy → Dostań priorytety w 30 sekund
+3. **WOW EFFECT!** ✨
+4. Dopiero potem → Obejrzyj lekcje 1-4 (zrozumiesz DLACZEGO to działa)
+5. Opcjonalnie → Stwórz Profil Kontekstowy (żeby działało jeszcze lepiej)
+
+**Czas:** 5 min do pierwszego "wow" | 40-50 min teoria | +5-15 min profil (opcja)
+
+---
+
+### **Opcja B: Klasyczny przebieg (teoria → praktyka)**
+
+1. Obejrzyj Lekcje 1-3 (teoria - neurobiologia, chaos, model IPO)
+2. Lekcja 4 → Wypróbuj **ADHD Clarity & Goals V2**
+3. Opcjonalnie → Stwórz Profil Kontekstowy
+
+**Czas:** 40-50 min teoria + 5 min praktyka + 5-15 min profil (opcja)
+
+---
+
+**💡 WSKAZÓWKA:** Jeśli czujesz teraz chaos/przeciążenie → wybierz Opcję A. Jeśli jesteś w trybie "chcę zrozumieć" → Opcja B.
+
+---
+
 ## 📚 Struktura modułu
 
 ### **Lekcja 1: Dlaczego Twój mózg działa inaczej (neurobiologia ADHD)**
@@ -31,8 +59,6 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 - VTA i nucleus accumbens (centrum nagrody)
 - Hamulec i gaz (funkcje wykonawcze)
 - To NIE twoja wina
-
-**Narzędzie AI:** 🤖 **Mój Profil Dopaminowy**
 
 **Plik:** `lekcja_1_neurobiologia_adhd.md`
 
@@ -48,8 +74,6 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 - Otwarte pętle (niezakończone zadania i emocje)
 - Radio w głowie
 
-**Narzędzie AI:** 🤖 **Zrzut Myśli (Mental Dump)**
-
 **Plik:** `lekcja_2_chaos_i_natlok_mysli.md`
 
 ---
@@ -63,8 +87,6 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 - PROCESS – zacięte funkcje wykonawcze, paraliż decyzyjny
 - OUTPUT – trudność w starcie i kończeniu
 - ADHD jako problem systemowy (nie problem z "jedną rzeczą")
-
-**Narzędzie AI:** 🤖 **Diagnoza IPO – Gdzie się zacinasz?**
 
 **Plik:** `lekcja_3_model_ipo.md`
 
@@ -80,7 +102,8 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 - Externalizing Thoughts (wyrzucanie myśli na zewnątrz)
 - Model współpracy: mózg ADHD + AI
 
-**Narzędzie AI:** 🤖 **Klarowność w 30 sekund** ⭐ (GŁÓWNE NARZĘDZIE MODUŁU)
+**Narzędzie AI:** 🤖 **ADHD Clarity & Goals V2** ⭐ (GŁÓWNE NARZĘDZIE MODUŁU)
+**Tryb:** Clarity - Chaos → Priorytety w 30 sekund
 
 **Plik:** `lekcja_4_narzedzie_ai_klarownosc.md`
 
@@ -88,25 +111,64 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 
 ## 🤖 Narzędzia AI w tym module
 
-### 1. **Mój Profil Dopaminowy**
-**Kiedy używać:** Po lekcji 1
-**Co robi:** Identyfikuje, co włącza Twoją dopaminę (i motywację), a co ją gasi
-**Czas:** 5 min
+### ⭐ **ZACZNIJ TUTAJ: ADHD Clarity & Goals V2** (Custom GPT)
 
-### 2. **Zrzut Myśli (Mental Dump)**
-**Kiedy używać:** Po lekcji 2 + w każdej chwili, gdy czujesz przeciążenie
-**Co robi:** Wyładowuje chaos z głowy i zamyka otwarte pętle
-**Czas:** 5-10 min
+**DOPAMINA FIRST** – zanim przejdziesz do teorii, doświadcz "wow efektu"!
 
-### 3. **Diagnoza IPO**
-**Kiedy używać:** Po lekcji 3
-**Co robi:** Pokazuje, gdzie w IPO masz największy bottleneck (INPUT/PROCESS/OUTPUT)
-**Czas:** 5 min
+**2 tryby:**
+- **Tryb: Clarity** – Chaos → Priorytety w 30 sekund
+- **Tryb: Goals** – Wyznaczanie celów SMART dla ADHD
 
-### 4. **Klarowność w 30 sekund** ⭐
-**Kiedy używać:** CODZIENNIE (zwłaszcza rano lub gdy czujesz paraliż)
-**Co robi:** Zamienia chaos w uporządkowaną listę priorytetów
-**Czas:** 2-5 min
+**Kiedy używać:**
+- TERAZ (przed lub po Lekcji 4 - dowolnie!)
+- Codziennie, gdy czujesz przeciążenie
+- Gdy nie wiesz, od czego zacząć
+
+**Co robi:**
+- Porządkuje chaos mentalny
+- Zamyka otwarte pętle
+- Tworzy konkretne priorytety
+- Pokazuje, gdzie się zacinasz w IPO
+
+**Czas:** 2-5 min (bez profilu) | 1-2 min (z profilem)
+
+**Link:** [dostępny w pakiecie startowym]
+
+---
+
+### 🎯 **UPGRADE: Profil Kontekstowy ADHD** (Custom GPT - opcjonalnie)
+
+**Kiedy tworzyć:** Po doświadczeniu Clarity & Goals – gdy chcesz, żeby działało JESZCZE lepiej
+
+**Co robi:**
+- Tworzy Twój unikalny profil ADHD (5-15 min)
+- Identyfikuje bottleneck IPO (INPUT/PROCESS/OUTPUT)
+- Mapuje profil dopaminowy (co napędza, co gasi)
+- Profil używasz później w Clarity & Goals i Claude Projects
+
+**Czas:** 5 min (szybki) | 15 min (pełny)
+
+**Link:** [dostępny w pakiecie startowym]
+
+---
+
+### 🔧 **ZAAWANSOWANE: Claude Projects** (5 trybów)
+
+**Kiedy konfigurować:** Po Module 1, gdy chcesz mieć pełny ekosystem narzędzi
+
+**5 trybów:**
+1. **Klarowność** - chaos → struktura
+2. **Decyzje** - paraliż decyzyjny → wybór
+3. **Plan Dnia** - brak struktury → plan dostosowany do ADHD
+4. **Emocje** - RSD/frustracja → reframing
+5. **Micro-Start** - paraliż wykonawczy → pierwszy krok
+
+**Co potrzebujesz:**
+- Konto Claude (darmowe lub Pro)
+- Profil Kontekstowy (plik .md)
+- Instrukcje systemowe (dostajesz w pakiecie)
+
+**Instrukcje:** `instrukcje_projekty_claude.md`
 
 ---
 
@@ -171,15 +233,20 @@ AI działa jak "zewnętrzny prefrontal cortex":
 
 ## ✅ Checkpoint: Czy jestem gotowy/a na Moduł 2?
 
-Sprawdź, czy:
+**MINIMUM (wystarczy do przejścia dalej):**
 
-- [ ] Rozumiem, że ADHD to neurobiologia (dopamina, VTA, hamulec/gaz)
-- [ ] Wiem, skąd się bierze chaos i natłok myśli (Input Overload, working memory, otwarte pętle)
-- [ ] Znam model IPO i rozumiem, gdzie się zacinam
-- [ ] Użyłem/am narzędzia "Klarowność w 30 sekund" i doświadczyłem/am efektu
+- [ ] Użyłem/am **ADHD Clarity & Goals V2** i doświadczyłem/am "wow efektu"
+- [ ] Rozumiem model IPO (Input → Process → Output)
+- [ ] Wiem, że ADHD to neurobiologia, nie lenistwo
+
+**OPCJONALNIE (ale warto!):**
+
+- [ ] Obejrzałem/am wszystkie 4 lekcje (teoria)
+- [ ] Stworzyłem/am Profil Kontekstowy ADHD
+- [ ] Skonfigurowałem/am Claude Projects (5 trybów)
 - [ ] Podzieliłem/am się wynikami w społeczności (#klarownosc-v0)
 
-Jeśli zaznaczyłeś/aś wszystkie punkty – **gratulacje!** Jesteś gotowy/a na **Moduł 2: Twój Profil Kontekstowy ADHD**.
+Jeśli zaznaczyłeś/aś punkty z **MINIMUM** – **gratulacje!** Jesteś gotowy/a na **Moduł 2**.
 
 ---
 
@@ -200,10 +267,11 @@ W kolejnym module dowiesz się:
 ### Podziel się swoimi wnioskami!
 
 **Kanały w społeczności:**
-- #profil-dopaminowy (Lekcja 1)
-- #zrzut-mysli (Lekcja 2)
-- #diagnoza-ipo (Lekcja 3)
-- #klarownosc-v0 (Lekcja 4) ⭐
+- #wow-effect ⭐ - Pokaż swój "przed/po" z Clarity & Goals
+- #clarity-wins - Jak AI uporządkowało Twój chaos
+- #moj-profil-adhd - Podziel się insights z Profilu Kontekstowego (opcjonalnie)
+- #claude-projects - Jak skonfigurowałeś swój ekosystem narzędzi
+- #teoria-modul-1 - Dyskusje o neurobiologii, IPO, mechanizmach ADHD
 
 ### Pytania? Problemy?
 

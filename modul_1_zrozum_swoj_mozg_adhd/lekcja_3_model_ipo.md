@@ -246,15 +246,18 @@ To właśnie pokażemy w kolejnych modułach.
 **Czas:** ~2-3 min
 **Cel:** Natychmiastowe zastosowanie, "wow effect", praktyczne narzędzie
 
-#### 🤖 Custom GPT: **Diagnoza IPO – Gdzie się zacinasz?**
+#### 🤖 Narzędzie (OPCJONALNE): **Profil Kontekstowy ADHD**
+
+**UWAGA:** To narzędzie jest **opcjonalne**. Możesz je użyć teraz lub po ukończeniu wszystkich 4 lekcji Modułu 1.
 
 **Co robi:**
-Pomaga Ci zidentyfikować, w którym miejscu IPO masz największy bottleneck – INPUT, PROCESS czy OUTPUT. Dzięki temu wiesz, na czym się skupić w pierwszej kolejności.
+Pomaga Ci zidentyfikować, w którym miejscu IPO masz największy bottleneck – INPUT, PROCESS czy OUTPUT. Tworzy też pełny profil ADHD, który możesz potem używać w innych narzędziach AI.
 
 **Jak używać:**
 
-1. Wejdź do GPT: [link do Custom GPT - "Diagnoza IPO"]
-2. Odpowiedz na 5-7 pytań, które GPT Ci zada:
+1. Wejdź do GPT: [link w pakiecie - "Profil Kontekstowy ADHD"]
+2. Wybierz: "Szybki profil" (5 min) lub "Pełny profil" (15 min)
+3. Odpowiedz na pytania, które GPT Ci zada:
    - "Kiedy ostatnio czułeś/aś się przeciążony/a?"
    - "Kiedy ostatnio nie mogłeś/aś podjąć decyzji?"
    - "Kiedy ostatnio wiedziałeś/aś, co robić, ale nie mogłeś/aś zacząć?"
@@ -287,7 +290,7 @@ Wiesz, co robić, ale odkładasz. Działasz dopiero pod presją (deadline).
 💡 GŁÓWNY BOTTLENECK: **INPUT**
 
 🎯 REKOMENDACJE:
-1. **Zacznij od Zrzutu Myśli** (GPT: Mental Dump) – wyładuj chaos z głowy
+1. **Zacznij od narzędzia Clarity** (ADHD Clarity & Goals V2) – wyładuj chaos z głowy
 2. Użyj AI do filtrowania – co jest pilne, a co może poczekać
 3. Ogranicz input: zamknij niepotrzebne taby (dosłownie i metaforycznie)
 4. Pracuj na liście MAX 3 rzeczy dziennie
@@ -300,24 +303,29 @@ Wiesz, co robić, ale odkładasz. Działasz dopiero pod presją (deadline).
 
 ---
 
-#### ✨ Zadanie praktyczne
+#### ✨ Zadanie praktyczne (OPCJONALNE)
 
-**Czas:** 5 minut
+**Czas:** 5-15 minut
 **Akcja:**
 
-1. Wejdź do GPT **"Diagnoza IPO"**
-2. Odpowiedz na pytania
-3. Zapisz swoją diagnozę (screenshot lub notatka)
-4. Zapamiętaj swój **główny bottleneck** (INPUT / PROCESS / OUTPUT)
+1. Wejdź do GPT **"Profil Kontekstowy ADHD"** (link w pakiecie)
+2. Wybierz "Szybki profil" (5 min) lub "Pełny profil" (15 min)
+3. Odpowiedz na pytania
+4. Zapisz swój profil (skopiuj tekst wygenerowany przez AI)
+5. Zapamiętaj swój **główny bottleneck** (INPUT / PROCESS / OUTPUT)
 
 **Dlaczego to ważne?**
-Bo w kolejnych modułach będziesz pracować dokładnie nad TYM elementem, który blokuje Twój system.
+- Poznasz swój unikalny profil ADHD
+- Dowiesz się, gdzie się zacinasz w IPO
+- Profil możesz potem używać w innych narzędziach AI (lepsze dopasowanie)
+
+**UWAGA:** To jest **opcjonalne**. Możesz pominąć i wrócić później!
 
 ---
 
 #### 📢 Społeczność
 
-Podziel się swoją diagnozą w kanale **#diagnoza-ipo**!
+Podziel się swoim bottleneckiem w kanale **#moj-profil-adhd**!
 
 Napisz:
 - Jaki jest Twój główny bottleneck?

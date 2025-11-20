@@ -162,15 +162,18 @@ I kiedy zrozumiesz te zasady, możesz przestać się z sobą bić. I zacząć pr
 **Czas:** ~2-3 min
 **Cel:** Natychmiastowe zastosowanie, "wow effect", praktyczne narzędzie
 
-#### 🤖 Custom GPT: **Mój Profil Dopaminowy**
+#### 🤖 Narzędzie (OPCJONALNE): **Profil Kontekstowy ADHD**
+
+**UWAGA:** To narzędzie jest **opcjonalne**. Możesz je użyć teraz lub po ukończeniu wszystkich 4 lekcji Modułu 1.
 
 **Co robi:**
-Pomaga Ci zidentyfikować, co włącza Twoją dopaminę (i motywację), a co ją gasi. Dzięki temu możesz świadomie projektować swoje zadania i środowisko.
+Pomaga Ci zidentyfikować, co włącza Twoją dopaminę (i motywację), a co ją gasi. Tworzy pełny profil ADHD, który potem możesz używać w innych narzędziach AI.
 
 **Jak używać:**
 
-1. Wejdź do GPT: [link do Custom GPT - "Mój Profil Dopaminowy"]
-2. Odpowiedz na 3-5 pytań, które GPT Ci zada:
+1. Wejdź do GPT: [link w pakiecie - "Profil Kontekstowy ADHD"]
+2. Wybierz: "Szybki profil" (5 min) lub "Pełny profil" (15 min)
+3. Odpowiedz na pytania, które GPT Ci zada:
    - "Kiedy ostatnio robiłeś coś bez wysiłku?"
    - "Kiedy ostatnio miałeś paraliż wykonawczy?"
    - "Co Cię najbardziej nudzi?"
