@@ -77,17 +77,16 @@ Spokój. Klarowność. Wiesz, co robić.
 
 ## 🎯 Co dalej?
 
-### **Opcja A: Chcę więcej takich narzędzi (5 trybów AI)**
+### **Opcja A: Chcę mieć własny projekt z pamięcią**
 
-Skonfiguruj **Claude Projects** – pełny ekosystem narzędzi ADHD:
+Stwórz **Projekt ChatGPT/Claude** dla Modułu 1:
 
-1. **Klarowność** - chaos → struktura
-2. **Decyzje** - paraliż → wybór
-3. **Plan Dnia** - brak struktury → plan ADHD-friendly
-4. **Emocje** - RSD/frustracja → reframing
-5. **Micro-Start** - paraliż wykonawczy → pierwszy krok
+- Narzędzie działa jak Custom GPT
+- Ale MA PAMIĘĆ (historia twoich sesji)
+- Może przechowywać Twój profil ADHD
+- **DARMOWE** (ChatGPT i Claude mają darmowe projekty!)
 
-📖 **Instrukcje:** `instrukcje_projekty_claude.md`
+📖 **Instrukcje:** `instrukcje_projekt_modul_1_klarownosc.md`
 
 ---
 
@@ -120,26 +119,33 @@ Obejrzyj **Moduł 1: Zrozum Swój Mózg ADHD** (4 lekcje x 10-12 min):
 
 ## 🔗 Linki do narzędzi
 
-### **Custom GPT (ChatGPT Plus wymagane)**
+### **Custom GPT (gotowe linki - ty tworzysz, oni używają)**
+
+**WAŻNE:** Custom GPT tworzy Przemek, Ty dostajesz gotowe linki. **NIE potrzebujesz ChatGPT Plus do korzystania** - tylko do tworzenia (ale to robi Przemek za Ciebie).
 
 1. **ADHD Clarity & Goals V2** ⭐ (główne narzędzie)
-   - **Link:** [link do Custom GPT]
-   - **Tryby:** Clarity (chaos → priorytety), Goals (cele SMART dla ADHD)
+   - **Link:** [link do Custom GPT - dostępny w pakiecie]
+   - **Tryby:**
+     - Clarity (chaos → priorytety w 30 sek)
+     - Goals (cele oparte na 4 C's of Motivation)
+   - **Nie wiesz?** Powiedz jaki masz problem → AI rozpozna
 
 2. **Profil Kontekstowy ADHD** (opcjonalnie, warto!)
-   - **Link:** [link do Custom GPT]
+   - **Link:** [link do Custom GPT - dostępny w pakiecie]
    - **Czas:** 5 min (szybki) | 15 min (pełny)
+   - Tworzy Twój profil w formacie .md
 
 ---
 
-### **Claude Projects (Claude Free lub Pro)**
+### **Projekty ChatGPT/Claude (DARMOWE! Tworzysz sam)**
 
-**Instrukcje konfiguracji:** `instrukcje_projekty_claude.md`
+**Instrukcje konfiguracji:** `instrukcje_projekt_modul_1_klarownosc.md`
 
 **Co dostajesz:**
-- 5 trybów AI (Klarowność, Decyzje, Plan Dnia, Emocje, Micro-Start)
-- Pamięć kontekstu (profil ADHD w plikach)
-- Personalizacja (własne instrukcje)
+- Własny projekt z pamięcią historii
+- Możesz dodać profil ADHD do bazy wiedzy
+- Działa jak Custom GPT, ale z Twoimi danymi
+- **DARMOWE w ChatGPT i Claude** (Free plan wystarczy)
 
 ---
 
@@ -167,9 +173,9 @@ zrozum_swoje_adhd/
 
 ### **Czy muszę mieć ChatGPT Plus?**
 
-Tak, żeby używać Custom GPT (ADHD Clarity & Goals V2, Profil Kontekstowy).
+**NIE!** Custom GPT tworzy Przemek, Ty dostajesz gotowe linki do użycia.
 
-**Alternatywa:** Użyj **Claude Projects** (darmowy plan Claude wystarczy, ale ma limity wiadomości).
+**Możesz też:** Stworzyć własny **Projekt ChatGPT** lub **Projekt Claude** - oba mają darmowe plany! Dostajesz instrukcje krok po kroku.
 
 ---
 

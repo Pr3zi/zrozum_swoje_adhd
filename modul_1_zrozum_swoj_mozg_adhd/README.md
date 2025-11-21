@@ -117,7 +117,7 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 
 **2 tryby:**
 - **Tryb: Clarity** – Chaos → Priorytety w 30 sekund
-- **Tryb: Goals** – Wyznaczanie celów SMART dla ADHD
+- **Tryb: Goals** – Cele oparte na 4 C's of Motivation (Captivate, Create, Compete, Complete)
 
 **Kiedy używać:**
 - TERAZ (przed lub po Lekcji 4 - dowolnie!)
@@ -152,23 +152,24 @@ Dać uczestnikowi **fundamentalne zrozumienie** mechanizmów ADHD i pierwsze **p
 
 ---
 
-### 🔧 **ZAAWANSOWANE: Claude Projects** (5 trybów)
+### 🔧 **ZAAWANSOWANE: Projekt ChatGPT/Claude dla Modułu 1**
 
-**Kiedy konfigurować:** Po Module 1, gdy chcesz mieć pełny ekosystem narzędzi
+**Kiedy konfigurować:** Gdy chcesz mieć własny projekt z pamięcią historii
 
-**5 trybów:**
-1. **Klarowność** - chaos → struktura
-2. **Decyzje** - paraliż decyzyjny → wybór
-3. **Plan Dnia** - brak struktury → plan dostosowany do ADHD
-4. **Emocje** - RSD/frustracja → reframing
-5. **Micro-Start** - paraliż wykonawczy → pierwszy krok
+**Co dostaniesz:**
+- Narzędzie działa jak Custom GPT (Clarity + Goals)
+- Ale MA PAMIĘĆ (historia Twoich sesji)
+- Możesz dodać Profil Kontekstowy do bazy wiedzy
+- AI pamięta Twoje wzorce
 
 **Co potrzebujesz:**
-- Konto Claude (darmowe lub Pro)
-- Profil Kontekstowy (plik .md)
+- Konto ChatGPT (darmowe) LUB Claude (darmowe)
+- Profil Kontekstowy (plik .md) - opcjonalny
 - Instrukcje systemowe (dostajesz w pakiecie)
 
-**Instrukcje:** `instrukcje_projekty_claude.md`
+**Instrukcje:** `instrukcje_projekt_modul_1_klarownosc.md`
+
+**DARMOWE!** Oba platformy mają darmowe projekty.
 
 ---
 
