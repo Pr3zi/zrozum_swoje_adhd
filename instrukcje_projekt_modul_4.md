@@ -1,7 +1,7 @@
 # Instrukcje: Projekt ChatGPT/Claude - Moduł 4 (Planner AI)
 
-**Moduł:** 4 - Planner AI - Lead Days + Sprints
-**Narzędzie:** Planner AI (Lead Days, Sprinty, Energy Management)
+**Moduł:** 4 - Planner AI - Dni Odliczania (Lead Days) + Sprinty
+**Narzędzie:** Planner AI (Dni Odliczania / Lead Days, Sprinty, Zarządzanie Energią / Energy Management)
 **Koszt:** **DARMOWE** (ChatGPT Free lub Claude Free)
 
 ---
@@ -9,10 +9,10 @@
 ## 🎯 Co to robi?
 
 **Planner AI** pomaga:
-- Obliczać Lead Days (urgency levels: RED/YELLOW/GREEN)
-- Planować Sprinty (typy zadań zamiast time blockingu)
-- Dopasować zadania do energy levels (chronotype)
-- Trackować czas (oszacowanie vs realne - zmniejszenie optimism bias)
+- Obliczać Dni Odliczania (Lead Days) (poziomy pilności / urgency levels: CZERWONY/RED, ŻÓŁTY/YELLOW, ZIELONY/GREEN)
+- Planować Sprinty (typy zadań zamiast blokowania czasu / time blocking)
+- Dopasować zadania do poziomów energii (energy levels) (chronotyp / chronotype)
+- Trackować czas (oszacowanie vs realne - zmniejszenie błędu optymizmu / optimism bias)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 🧠 Jak używać?
 
-### **Lead Days Calculator:**
+### **Kalkulator Dni Odliczania (Lead Days Calculator):**
 ```
 Zadania:
 1. Raport - deadline: [data]
@@ -44,24 +44,24 @@ Zadania:
 3. Prezentacja - deadline: za 10 dni
 ```
 
-AI zwróci: Lead Days + urgency levels (RED/YELLOW/GREEN) + priorytety.
+AI zwróci: Dni Odliczania (Lead Days) + poziomy pilności (urgency levels) (CZERWONY/RED, ŻÓŁTY/YELLOW, ZIELONY/GREEN) + priorytety.
 
-### **Sprint Planning:**
+### **Planowanie Sprintów (Sprint Planning):**
 ```
 Zaplanuj Sprinty na dzisiaj.
-Energy pattern: Early Bird (wysoka energia rano)
+Wzorzec energii (Energy pattern): Skowronek (Early Bird) (wysoka energia rano)
 ```
 
 AI zwróci: Plan Sprintów dopasowany do energii.
 
-### **Time Tracking:**
+### **Śledzenie Czasu (Time Tracking):**
 ```
 Sprint: Raport
 Start: 9:00, Koniec: 11:15
 Oszacowanie: 1 godzina
 ```
 
-AI zwróci: Czas rzeczywisty vs oszacowanie + insight (optimism bias).
+AI zwróci: Czas rzeczywisty vs oszacowanie + wgląd / insight (błąd optymizmu / optimism bias).
 
 ---
 

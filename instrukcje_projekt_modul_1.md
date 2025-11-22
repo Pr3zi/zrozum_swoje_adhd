@@ -1,7 +1,7 @@
-# Instrukcje: Projekt ChatGPT/Claude - Moduł 1 (Clarity + Goals)
+# Instrukcje: Projekt ChatGPT/Claude - Moduł 1 (Klarowność + Cele)
 
 **Moduł:** 1 - Zrozum swój mózg ADHD
-**Narzędzie:** Clarity + Goals (AI do klarowności i celów opartych na 4 C's)
+**Narzędzie:** Klarowność + Cele (Clarity + Goals) (AI do klarowności i celów opartych na 4 C's)
 **Koszt:** **DARMOWE** (ChatGPT Free lub Claude Free)
 
 ---
@@ -99,7 +99,7 @@ AI zwróci:
 
 ---
 
-### **Tryb 2: Goals (Cele oparte na 4 C's)**
+### **Tryb 2: Cele (Goals) (Cele oparte na 4 C's)**
 
 Wklej swój cel:
 ```
@@ -109,9 +109,9 @@ Ale nie mogę się zmotywować. Próbowałem SMART goal, nie działa.
 ```
 
 AI zwróci:
-- Analiza 4 C's (Captivate, Create, Compete, Complete)
+- Analiza 4 C's (Captivate/Fascynować, Create/Tworzyć, Compete/Rywalizować, Complete/Ukończyć)
 - Dopasowanie celu do 4 C's (jak uczynić interesującym/kreatywnym/wyzwaniem/z deadline)
-- Micro-commitments (rozbicie na ridiculous small kroki)
+- Mikro-zobowiązania (Micro-commitments) (rozbicie na absurdalnie małe / ridiculous small kroki)
 
 ---
 

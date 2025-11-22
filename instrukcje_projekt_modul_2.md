@@ -1,18 +1,18 @@
-# Instrukcje: Projekt ChatGPT/Claude - Moduł 2 (4 C's Coach)
+# Instrukcje: Projekt ChatGPT/Claude - Moduł 2 (Trener 4 C's)
 
-**Moduł:** 2 - Profil 4 C's of Motivation
-**Narzędzie:** 4 C's Coach (AI do motywacji i dopasowania celów)
+**Moduł:** 2 - Profil 4 C's of Motivation (4 C Motywacji)
+**Narzędzie:** Trener 4 C's (4 C's Coach) (AI do motywacji i dopasowania celów)
 **Koszt:** **DARMOWE** (ChatGPT Free lub Claude Free)
 
 ---
 
 ## 🎯 Co to robi?
 
-**4 C's Coach** pomaga:
-- Określić Twój **profil dopaminowy** (które z 4 C's dominują: Captivate/Create/Compete/Complete)
+**Trener 4 C's (4 C's Coach)** pomaga:
+- Określić Twój **profil dopaminowy** (które z 4 C's dominują: Captivate/Fascynować, Create/Tworzyć, Compete/Rywalizować, Complete/Ukończyć)
 - Dopasować cele do 4 C's (zamiast SMART goals - które NIE działają dla ADHD)
-- Rozbić cele na micro-commitments (ridiculous small kroki)
-- Określić chronotype (kiedy masz najwyższą energię)
+- Rozbić cele na mikro-zobowiązania (micro-commitments) (absurdalnie małe / ridiculous small kroki)
+- Określić chronotyp (chronotype) (kiedy masz najwyższą energię)
 
 ---
 
@@ -50,12 +50,12 @@ Cel: Chcę [X], ale nie mogę się zmotywować.
 
 AI dopasuje cel do Twojego profilu 4 C's (jak uczynić interesującym/kreatywnym/wyzwaniem/z deadline).
 
-### **Micro-commitments:**
+### **Mikro-zobowiązania (Micro-commitments):**
 ```
-Rozbij cel: [X] na ridiculous small kroki.
+Rozbij cel: [X] na absurdalnie małe (ridiculous small) kroki.
 ```
 
-AI rozbije cel na 2-10 minutowe micro-commitments.
+AI rozbije cel na 2-10 minutowe mikro-zobowiązania (micro-commitments).
 
 ---
 

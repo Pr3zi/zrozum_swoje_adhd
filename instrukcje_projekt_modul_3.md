@@ -9,11 +9,11 @@
 ## 🎯 Co to robi?
 
 **Emocjonalne Wsparcie AI** pomaga:
-- Walidować emocje (bez minimalizacji, bez toxic positivity)
+- Walidować emocje (bez minimalizacji, bez toksycznej pozytywności / toxic positivity)
 - Oddzielić FAKT od INTERPRETACJI (CBT model)
-- 3 neutralne perspektywy (reframing - nie pozytywne)
-- Zamknąć pętlę emocjonalną (Zeigarnik effect)
-- Radykalna akceptacja (DBT) gdy potrzebne
+- 3 neutralne perspektywy (przeramowanie / reframing - nie pozytywne)
+- Zamknąć pętlę emocjonalną (efekt Zeigarnik / Zeigarnik effect)
+- Radykalna akceptacja (Radical Acceptance - DBT) gdy potrzebne
 
 ---
 

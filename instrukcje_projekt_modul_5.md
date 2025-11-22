@@ -1,17 +1,17 @@
-# Instrukcje: Projekt ChatGPT/Claude - Moduł 5 (Micro-Start Coach)
+# Instrukcje: Projekt ChatGPT/Claude - Moduł 5 (Trener Mikro-Startów)
 
-**Moduł:** 5 - Micro-Start Coach + Body Doubling AI
-**Narzędzie:** Micro-Start Coach (paraliż wykonawczy → micro-start + body doubling)
+**Moduł:** 5 - Trener Mikro-Startów (Micro-Start Coach) + AI Body Doubling (Towarzyszenie w Pracy)
+**Narzędzie:** Trener Mikro-Startów (Micro-Start Coach) (paraliż wykonawczy → mikro-start + body doubling / towarzyszenie w pracy)
 **Koszt:** **DARMOWE** (ChatGPT Free lub Claude Free)
 
 ---
 
 ## 🎯 Co to robi?
 
-**Micro-Start Coach + Body Doubling** pomaga:
-- Generować ridiculous small pierwsze kroki (2-10 sekund) - obejście paraliżu
-- Towarzyszyć podczas pracy (body doubling - check-ins, validation, gentle nudges)
-- Walidować każdy progress (zamyka pętle emocjonalne - Zeigarnik effect)
+**Trener Mikro-Startów (Micro-Start Coach) + Body Doubling (Towarzyszenie w Pracy)** pomaga:
+- Generować absurdalnie małe (ridiculous small) pierwsze kroki (2-10 sekund) - obejście paraliżu
+- Towarzyszyć podczas pracy (body doubling / towarzyszenie - meldunki / check-ins, walidacja / validation, delikatne podpowiedzi / gentle nudges)
+- Walidować każdy postęp (progress) (zamyka pętle emocjonalne - efekt Zeigarnik / Zeigarnik effect)
 
 ---
 
@@ -40,24 +40,24 @@
 Nie mogę zacząć: [zadanie]
 ```
 
-AI zwróci: Micro-start (ridiculous small pierwszy krok - 2-10 sekund).
+AI zwróci: Mikro-start (Micro-start) (absurdalnie mały / ridiculous small pierwszy krok - 2-10 sekund).
 
-### **Body Doubling (długi task):**
+### **Body Doubling / Towarzyszenie w Pracy (długi task):**
 ```
-Potrzebuję body doubling.
+Potrzebuję body doubling (towarzyszenia).
 Zadanie: [X]
 Czas: 1 godzina
-Check-ins: Co 10 minut
+Meldunki (Check-ins): Co 10 minut
 ```
 
-AI zwróci: Sesja body doubling (check-ins co X minut, progress validation, gentle nudges).
+AI zwróci: Sesja body doubling / towarzyszenia (meldunki / check-ins co X minut, walidacja postępu / progress validation, delikatne podpowiedzi / gentle nudges).
 
-### **Stuck / Rozproszenie:**
+### **Zablokowany (Stuck) / Rozproszenie:**
 ```
 Zgubiłem się. Scrollowałem social media.
 ```
 
-AI zwróci: Gentle nudge (bez judgment) + micro-start powrót.
+AI zwróci: Delikatna podpowiedź (Gentle nudge) (bez oceniania / judgment) + mikro-start (micro-start) powrót.
 
 ---
 
