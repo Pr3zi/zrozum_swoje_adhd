@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zrozum Swoje ADHD z AI - Kurs Online</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary: #FF4444;
+            --secondary: #2D3748;
+            --background: #F7FAFC;
+            --text: #2D3748;
+            --accent: #48BB78;
+            --warning: #ED8936;
+            --light-gray: #EDF2F7;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            color: var(--text);
+            line-height: 1.6;
+            background: var(--background);
+        }
+        
+        h1, h2, h3, h4 {
+            font-family: 'Poppins', sans-serif;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+        
+        /* 1. PASEK Z LICZNIKIEM */
+        .countdown-bar {
+            background: var(--primary);
+            color: white;
+            text-align: center;
+            padding: 15px 20px;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 600;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .countdown-bar span {
+            font-size: 1.1rem;
+        }
+        
+        #countdown {
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin-left: 10px;
+        }
+        
+        /* CONTAINER */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        /* 2. HERO SECTION */
+        .hero {
+            padding: 60px 20px;
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        
+        .hero-pretitle {
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+            opacity: 0.9;
+        }
+        
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .hero-subtitle {
+            font-size: 1.4rem;
+            margin-bottom: 40px;
+            opacity: 0.95;
+        }
+        
+        /* 3. MOCKUP */
+        .mockup {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        .mockup-placeholder {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            height: 400px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: white;
+            font-weight: 700;
+        }
+        
+        /* 4. KLUCZOWE KORZYŚCI */
+        .benefits {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin: 50px 0;
+        }
+        
+        .benefit-card {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        
+        .benefit-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .benefit-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        
+        .benefit-card h3 {
+            margin-bottom: 15px;
+            color: var(--secondary);
+        }
+        
+        /* 5. CTA BUTTON */
+        .cta-button {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 20px 50px;
+            font-size: 1.2rem;
+            font-weight: 700;
+            border-radius: 50px;
+            text-decoration: none;
+            transition: all 0.3s;
+            box-shadow: 0 5px 20px rgba(255,68,68,0.4);
+            font-family: 'Poppins', sans-serif;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .cta-button:hover {
+            background: #ff2222;
+            transform: translateY(-3px);
+            box-shadow: 0 8px 30px rgba(255,68,68,0.6);
+        }
+        
+        .cta-section {
+            text-align: center;
+            margin: 50px 0;
+        }
+        
+        /* MAIN SECTIONS */
+        section {
+            padding: 80px 20px;
+        }
+        
+        .section-white {
+            background: white;
+        }
+        
+        .section-gray {
+            background: var(--light-gray);
+        }
+        
+        .section-title {
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 50px;
+            color: var(--secondary);
+        }
+        
+        /* 6. WPROWADZENIE */
+        .intro {
+            max-width: 800px;
+            margin: 0 auto;
+            font-size: 1.2rem;
+            line-height: 1.8;
+        }
+        
+        .intro p {
+            margin-bottom: 20px;
+        }
+        
+        .intro strong {
+            color: var(--primary);
+        }
+        
+        /* 7. TABELA PORÓWNANIE */
+        .comparison-table {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+        
+        .comparison-table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .comparison-table th,
+        .comparison-table td {
+            padding: 20px;
+            text-align: left;
+            border-bottom: 1px solid var(--light-gray);
+        }
+        
+        .comparison-table th {
+            background: var(--secondary);
+            color: white;
+            font-weight: 600;
+        }
+        
+        .comparison-table .highlight {
+            background: #e6ffe6;
+            font-weight: 600;
+        }
+        
+        .cross {
+            color: var(--primary);
+            font-size: 1.5rem;
+        }
+        
+        .check {
+            color: var(--accent);
+            font-size: 1.5rem;
+        }
+        
+        /* 8-9. KORZYŚCI LISTA */
+        .benefits-list {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .benefits-list li {
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            padding-left: 30px;
+            position: relative;
+        }
+        
+        .benefits-list li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--accent);
+            font-weight: 700;
+            font-size: 1.5rem;
+        }
+        
+        /* 10. PROBLEMY */
+        .problems {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .problem-item {
+            background: white;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-left: 5px solid var(--warning);
+            border-radius: 5px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        
+        .problem-item h3 {
+            color: var(--warning);
+            margin-bottom: 10px;
+        }
+        
+        /* 11. TRANSFORMACJA */
+        .transformation {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .before, .after {
+            padding: 30px;
+            border-radius: 10px;
+        }
+        
+        .before {
+            background: #ffe6e6;
+            border-left: 5px solid var(--primary);
+        }
+        
+        .after {
+            background: #e6ffe6;
+            border-left: 5px solid var(--accent);
+        }
+        
+        .before h3, .after h3 {
+            margin-bottom: 20px;
+        }
+        
+        /* 15. CENA */
+        .pricing {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        
+        .price-card {
+            background: white;
+            padding: 50px;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            border: 3px solid var(--accent);
+        }
+        
+        .price-old {
+            font-size: 1.5rem;
+            text-decoration: line-through;
+            color: #999;
+            margin-bottom: 10px;
+        }
+        
+        .price-current {
+            font-size: 4rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 20px;
+        }
+        
+        .price-note {
+            font-size: 1.1rem;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        
+        /* 16. MODUŁY */
+        .modules {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .module-card {
+            background: white;
+            padding: 30px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            border-left: 5px solid var(--accent);
+        }
+        
+        .module-card h3 {
+            color: var(--secondary);
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+        
+        .module-card ul {
+            list-style: none;
+            margin-top: 15px;
+        }
+        
+        .module-card li {
+            padding: 10px 0;
+            padding-left: 30px;
+            position: relative;
+        }
+        
+        .module-card li:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: var(--accent);
+            font-weight: 700;
+        }
+        
+        /* 17. BONUSY */
+        .bonuses {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .bonus-card {
+            background: linear-gradient(135deg, var(--warning) 0%, var(--primary) 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+        }
+        
+        .bonus-card h3 {
+            margin-bottom: 15px;
+        }
+        
+        .bonus-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-top: 15px;
+        }
+        
+        /* 18. AUTOR */
+        .author {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+        
+        .author h3 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: var(--secondary);
+        }
+        
+        /* 19. GWARANCJA */
+        .guarantee {
+            max-width: 700px;
+            margin: 0 auto;
+            text-align: center;
+            background: #fffbea;
+            padding: 40px;
+            border-radius: 15px;
+            border: 3px solid var(--warning);
+        }
+        
+        .guarantee-badge {
+            font-size: 5rem;
+            margin-bottom: 20px;
+        }
+        
+        .guarantee h3 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: var(--secondary);
+        }
+        
+        /* 20. DLA KOGO */
+        .for-who {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .for-who-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+        }
+        
+        .for-yes, .for-no {
+            padding: 30px;
+            border-radius: 10px;
+        }
+        
+        .for-yes {
+            background: #e6ffe6;
+            border-left: 5px solid var(--accent);
+        }
+        
+        .for-no {
+            background: #ffe6e6;
+            border-left: 5px solid var(--primary);
+        }
+        
+        .for-yes h3, .for-no h3 {
+            margin-bottom: 20px;
+        }
+        
+        /* 23. FAQ */
+        .faq {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .faq-item {
+            background: white;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        
+        .faq-item h3 {
+            color: var(--secondary);
+            margin-bottom: 15px;
+        }
+        
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+            
+            .section-title {
+                font-size: 1.8rem;
+            }
+            
+            .transformation,
+            .for-who-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .price-current {
+                font-size: 3rem;
+            }
+        }
+        
+        /* SMOOTH SCROLL */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+
+<!-- 1. PASEK Z LICZNIKIEM -->
+<div class="countdown-bar">
+    <span>⏰ PROMOCJA KOŃCZY SIĘ ZA:</span>
+    <span id="countdown">23:59:47</span>
+</div>
+
+<!-- 2. HERO SECTION -->
+<section class="hero">
+    <div class="container">
+        <p class="hero-pretitle">Pierwszy kurs online dla osób z ADHD</p>
+        <h1>Przestań Walczyć z Własnym Mózgiem.<br>Zacznij z Nim Współpracować.</h1>
+        <p class="hero-subtitle">5 narzędzi AI, które rozumieją Twój mózg z ADHD<br>i działają TAK, jak Ty potrzebujesz</p>
+        
+        <!-- 3. MOCKUP -->
+        <div class="mockup">
+            <div class="mockup-placeholder">
+                🧠 + 🤖<br>ADHD × AI
+            </div>
+        </div>
+        
+        <!-- 4. KLUCZOWE KORZYŚCI -->
+        <div class="benefits">
+            <div class="benefit-card">
+                <div class="benefit-icon">⚡</div>
+                <h3>Chaos → Klarowność</h3>
+                <p>W 30 sekund przekształć mentalny chaos w 3 jasne priorytety</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-icon">🎯</div>
+                <h3>Zero Paraliżu</h3>
+                <p>Absurdalnie małe kroki, które ZAWSZE możesz zacząć</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-icon">🔥</div>
+                <h3>Prawdziwa Motywacja</h3>
+                <p>4 C's zamiast SMART goals - dopamina dla mózgu z ADHD</p>
+            </div>
+            <div class="benefit-card">
+                <div class="benefit-icon">🤝</div>
+                <h3>Nigdy Sam</h3>
+                <p>AI Body Doubling - wirtualny towarzysz 24/7</p>
+            </div>
+        </div>
+        
+        <!-- 5. CTA -->
+        <div class="cta-section">
+            <a href="#cena" class="cta-button">CHCĘ ZACZĄĆ TERAZ →</a>
+        </div>
+    </div>
+</section>
+
+<!-- 6. WPROWADZENIE -->
+<section class="section-white">
+    <div class="container">
+        <div class="intro">
+            <p>Słuchaj...</p>
+            
+            <p>Jeśli masz ADHD, to prawdopodobnie <strong>wypróbowałeś już WSZYSTKO</strong>.</p>
+            
+            <p>Bullet journale. Planery. Aplikacje productivity. Pomodoro. Time blocking. SMART goals.</p>
+            
+            <p>I wiesz co?</p>
+            
+            <p><strong>Nic z tego nie działa.</strong> Przynajmniej nie dłużej niż tydzień.</p>
+            
+            <p>Bo wszystkie te narzędzia zostały stworzone dla neurotypowych mózgów. Dla ludzi, którzy NIE mają:</p>
+            
+            <ul style="margin: 30px 0;">
+                <li>Ślepoty czasowej (time blindness - nie czujesz upływu czasu)</li>
+                <li>Pamięci roboczej jak sito (nie pamiętasz, co miałeś zrobić 5 minut temu)</li>
+                <li>Paraliżu wykonawczego ("wiem CO robić, ale NIE MOGĘ zacząć")</li>
+                <li>RSD - nadwrażliwości na odrzucenie (każda krytyka = koniec świata)</li>
+            </ul>
+            
+            <p>To nie Twoja wina, że "zwykłe" metody nie działają.</p>
+            
+            <p><strong>Twój mózg działa INACZEJ. Potrzebujesz INNYCH narzędzi.</strong></p>
+            
+            <p>I właśnie dlatego stworzyłem ten kurs...</p>
+        </div>
+    </div>
+</section>
+
+<!-- 7. TABELA PORÓWNANIE -->
+<section class="section-gray">
+    <div class="container">
+        <h2 class="section-title">Tradycyjne Narzędzia vs Narzędzia AI dla ADHD</h2>
+        
+        <div class="comparison-table">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Aspekt</th>
+                        <th>Tradycyjne (Bullet Journal, Apps)</th>
+                        <th class="highlight">Narzędzia AI dla ADHD (Ten Kurs)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Ślepota czasowa (time blindness)</strong></td>
+                        <td><span class="cross">✗</span> Zakłada, że czujesz czas</td>
+                        <td><span class="check">✓</span> System Odliczania Dni (poziomy pilności)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Paraliż wykonawczy</strong></td>
+                        <td><span class="cross">✗</span> "Po prostu zacznij"</td>
+                        <td><span class="check">✓</span> Micro-start (2-10 sekund)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Motywacja</strong></td>
+                        <td><span class="cross">✗</span> SMART goals (nie działa dla ADHD)</td>
+                        <td><span class="check">✓</span> 4 C's (dopamina dla ADHD)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>RSD / Emocje</strong></td>
+                        <td><span class="cross">✗</span> "Nie przejmuj się"</td>
+                        <td><span class="check">✓</span> CBT/DBT + 3 neutralne perspektywy</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Samotność</strong></td>
+                        <td><span class="cross">✗</span> Pracujesz sam</td>
+                        <td><span class="check">✓</span> Body Doubling AI (24/7)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Koszt</strong></td>
+                        <td>$5-50/miesiąc (subskrypcje)</td>
+                        <td class="highlight"><strong>DARMOWE</strong> projekty AI (Free plan)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+
+<!-- 8-9. PYTANIE + KORZYŚCI -->
+<section class="section-white">
+    <div class="container">
+        <h2 class="section-title">Co Jeśli Mógłbyś...</h2>
+        
+        <div class="benefits-list">
+            <ul>
+                <li>Przekształcić chaos w głowie w 3 jasne priorytety... w 30 sekund?</li>
+                <li>Nigdy więcej nie czuć paraliżu "wiem CO, ale NIE MOGĘ zacząć"?</li>
+                <li>Przestać odkładać rzeczy na last minute (i żyć w chronicznym stresie)?</li>
+                <li>Mieć cele, które NAPRAWDĘ Cię motywują (nie "ważne, ale nudne")?</li>
+                <li>Nie czuć się samotnym podczas pracy (AI body double zawsze z Tobą)?</li>
+                <li>Przestać walczyć z RSD i emocjonalnymi rollercoasterami?</li>
+                <li>Wreszcie przestać czuć się "broken" lub "leniwy" (to neurobiologia, nie Ty)?</li>
+            </ul>
+        </div>
+        
+        <div class="cta-section">
+            <p style="font-size: 1.3rem; margin-bottom: 30px;"><strong>To wszystko jest możliwe.</strong></p>
+            <p style="font-size: 1.1rem; margin-bottom: 30px;">I nie, to nie wymaga "dyscypliny" ani "wzięcia się w garść".</p>
+            <p style="font-size: 1.1rem; margin-bottom: 40px;">Wymaga tylko <strong>ODPOWIEDNICH narzędzi</strong> dla Twojego mózgu.</p>
+        </div>
+    </div>
+</section>
+
+<!-- 10. IDENTYFIKACJA PROBLEMÓW -->
+<section class="section-gray">
+    <div class="container">
+        <h2 class="section-title">Rozpoznajesz To?</h2>
+        
+        <div class="problems">
+            <div class="problem-item">
+                <h3>🧠 "Chaos w głowie"</h3>
+                <p>Masz 20 zadań w głowie, ale nie wiesz od czego zacząć. Pamięć robocza przeciążona. Siedzisz przed komputerem, patrzysz na ekran... i nic.</p>
+            </div>
+
+            <div class="problem-item">
+                <h3>⏰ "Panika w ostatniej chwili"</h3>
+                <p>Termin za tydzień = "mam czas". Termin za dzień = PANIKA. Ślepota czasowa (time blindness) sprawia, że nie czujesz upływu czasu dopóki nie jest za późno.</p>
+            </div>
+
+            <div class="problem-item">
+                <h3>🎯 "SMART goals nie działają"</h3>
+                <p>Wyznaczyłeś cel: "30 minut ćwiczeń dziennie". Ważne? Tak. Motywujące? ZERO. Mózg z ADHD potrzebuje dopaminy, nie "ważności".</p>
+            </div>
+
+            <div class="problem-item">
+                <h3>😰 "Paraliż wykonawczy"</h3>
+                <p>Wiesz CO robić. Wiesz JAK to zrobić. Chcesz to zrobić. Ale... NIE MOŻESZ zacząć. Jesteś zablokowany. To neurologiczne, nie lenistwo.</p>
+            </div>
+
+            <div class="problem-item">
+                <h3>💔 "RSD - każda krytyka = rana"</h3>
+                <p>Szef powiedział "raport ma błędy" → myślisz "jestem do niczego". Rejection Sensitive Dysphoria sprawia, że każda krytyka = koniec świata.</p>
+            </div>
+
+            <div class="problem-item">
+                <h3>😔 "Samotność podczas pracy"</h3>
+                <p>Pracujesz z domu. Sam. Łatwo się rozpraszasz. Social media, scrollowanie... i 3 godziny minęły. Mózg z ADHD potrzebuje struktury zewnętrznej.</p>
+            </div>
+        </div>
+        
+        <div class="cta-section" style="margin-top: 50px;">
+            <p style="font-size: 1.3rem; margin-bottom: 30px;">Jeśli rozpoznałeś choćby JEDEN z tych problemów...</p>
+            <p style="font-size: 1.3rem; margin-bottom: 40px;"><strong>Ten kurs jest dla Ciebie.</strong></p>
+        </div>
+    </div>
+</section>
+
+<!-- 11. WIZJA TRANSFORMACJI -->
+<section class="section-white">
+    <div class="container">
+        <h2 class="section-title">Przed vs Po</h2>
+        
+        <div class="transformation">
+            <div class="before">
+                <h3>❌ PRZED (Bez Narzędzi AI)</h3>
+                <ul>
+                    <li>Chaos w głowie - nie wiesz od czego zacząć</li>
+                    <li>Paraliż przed każdym większym zadaniem</li>
+                    <li>Panika w ostatniej chwili przy każdym terminie</li>
+                    <li>Prokrastynacja bo "nudne" (brak dopaminy)</li>
+                    <li>RSD i emocjonalne rollercoastery</li>
+                    <li>Samotność i rozproszenie podczas pracy</li>
+                    <li>Poczucie winy: "dlaczego nie mogę jak wszyscy?"</li>
+                </ul>
+            </div>
+
+            <div class="after">
+                <h3>✅ PO (Z Narzędziami AI)</h3>
+                <ul>
+                    <li>Klarowność - 3 priorytety w 30 sekund</li>
+                    <li>Zero paraliżu - absurdalnie małe kroki ZAWSZE działają</li>
+                    <li>Świadomość pilności - System Odliczania Dni pokazuje CO i KIEDY</li>
+                    <li>Prawdziwa motywacja - 4 C's = dopamina</li>
+                    <li>Emocjonalna stabilność - CBT/DBT + reframing</li>
+                    <li>Body double AI - nigdy nie jesteś sam</li>
+                    <li>Akceptacja: "to neurobiologia, nie jestem uszkodzony"</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="cta-section" style="margin-top: 50px;">
+            <p style="font-size: 1.3rem; margin-bottom: 40px;">Ta transformacja NIE wymaga lat terapii ani "zmiany siebie".</p>
+            <p style="font-size: 1.3rem; margin-bottom: 40px;">Wymaga tylko <strong>ODPOWIEDNICH narzędzi</strong>.</p>
+            <a href="#cena" class="cta-button">CHCĘ TĘ TRANSFORMACJĘ →</a>
+        </div>
+    </div>
+</section>
+
+<!-- 15. CENA -->
+<section id="cena" class="section-gray">
+    <div class="container">
+        <h2 class="section-title">Inwestycja w Twój Spokój (i Produktywność)</h2>
+        
+        <div class="pricing">
+            <div class="price-card">
+                <p class="price-old">Wartość: 997 zł</p>
+                <p class="price-current">497 zł</p>
+                <p class="price-note">Jednorazowa płatność • DARMOWE narzędzia AI</p>
+
+                <p style="margin: 30px 0; font-size: 1.1rem;">
+                    <strong>W cenie otrzymujesz:</strong><br>
+                    5 kompletnych modułów • 20 lekcji video • 4 Custom GPT prompts • 5 DARMOWYCH projektów AI
+                </p>
+                
+                <a href="#" class="cta-button">DOŁĄCZAM DO KURSU ZA 497 ZŁ →</a>
+                
+                <p style="margin-top: 30px; color: var(--warning); font-weight: 600;">
+                    ⏰ Cena promocyjna wygasa za <span id="countdown2">23:59:47</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 16. ZAWARTOŚĆ/MODUŁY -->
+<section class="section-white">
+    <div class="container">
+        <h2 class="section-title">Co Dokładnie Dostajesz? (5 Modułów AI)</h2>
+        
+        <div class="modules">
+            <div class="module-card">
+                <h3>MODUŁ 1: Clarity & Goals AI</h3>
+                <p><strong>Chaos → Klarowność w 30 sekund</strong></p>
+                <ul>
+                    <li>Clarity Mode: Wklejasz chaos → AI daje 3 priorytety</li>
+                    <li>Cele oparte na 4 C's (zamiast SMART - które NIE działają)</li>
+                    <li>Jak przestać trzymać wszystko w głowie (ulga dla pamięci roboczej)</li>
+                    <li>Custom GPT + DARMOWY projekt (Free ChatGPT/Claude)</li>
+                </ul>
+            </div>
+
+            <div class="module-card">
+                <h3>MODUŁ 2: Trener 4 C's</h3>
+                <p><strong>Prawdziwa motywacja dla mózgu z ADHD</strong></p>
+                <ul>
+                    <li>Twój profil dopaminowy (które C's dominują: Zafascynowanie/Tworzenie/Rywalizacja/Zakończenie)</li>
+                    <li>Dlaczego SMART goals NIE działają dla ADHD (neurobiologia)</li>
+                    <li>Jak dopasować cele do 4 C's (przykłady: ćwiczenia, projekty, rutyny)</li>
+                    <li>Mikrozobowiązania: absurdalnie małe kroki (2-10 minut)</li>
+                </ul>
+            </div>
+
+            <div class="module-card">
+                <h3>MODUŁ 3: Emocjonalne Wsparcie AI (CBT/DBT)</h3>
+                <p><strong>RSD, lęk, emocjonalne rollercoastery → stabilność</strong></p>
+                <ul>
+                    <li>RSD (Rejection Sensitive Dysphoria) - neurobiologia + jak radzić</li>
+                    <li>CBT: Oddzielenie FAKTU od INTERPRETACJI ("szef powiedział X" ≠ "jestem do niczego")</li>
+                    <li>3 neutralne perspektywy (nie toksyczna pozytywność - ADHD nie wierzy)</li>
+                    <li>Radykalna Akceptacja (DBT): jak żyć z niepewnością</li>
+                </ul>
+            </div>
+
+            <div class="module-card">
+                <h3>MODUŁ 4: Planner AI - System Odliczania Dni + Sprinty</h3>
+                <p><strong>Ślepota czasowa → Świadomość pilności</strong></p>
+                <ul>
+                    <li>System Odliczania Dni (SOD): planowanie od terminu W TYŁ (poziomy pilności: CZERWONY/ŻÓŁTY/ZIELONY)</li>
+                    <li>Metoda Sprintów: 4 typy zadań zamiast blokowania czasu (które NIE działa)</li>
+                    <li>Zarządzanie Energią: dopasowanie do chronotypu (Ranny Ptaszek / Nocny Marek)</li>
+                    <li>Śledzenie czasu bez obsesji (koniec z błędem optymizmu)</li>
+                </ul>
+            </div>
+
+            <div class="module-card">
+                <h3>MODUŁ 5: Micro-Start Coach + Body Doubling AI</h3>
+                <p><strong>Paraliż wykonawczy → Zero momentów zablokowania</strong></p>
+                <ul>
+                    <li>Technika Micro-start: absurdalnie małe (2-10 sekund) - ZAWSZE możesz zacząć</li>
+                    <li>Body Doubling AI: wirtualny towarzysz 24/7 (meldunki, potwierdzenie, delikatne podpowiedzi)</li>
+                    <li>Śledzenie postępu: każdy krok = POSTĘP (nie "to nic")</li>
+                    <li>Sugestie odpoczynku: kiedy odpocząć (bez poczucia winy)</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="cta-section" style="margin-top: 50px;">
+            <p style="font-size: 1.2rem; margin-bottom: 40px;">5 modułów • 20 lekcji • 4 gotowe prompty Custom GPT • 5 DARMOWYCH projektów AI</p>
+            <a href="#cena" class="cta-button">CHCĘ WSZYSTKIE MODUŁY →</a>
+        </div>
+    </div>
+</section>
+
+<!-- 17. BONUSY -->
+<section class="section-gray">
+    <div class="container">
+        <h2 class="section-title">BONUSY (Dostępne Natychmiast)</h2>
+        
+        <div class="bonuses">
+            <div class="bonus-card">
+                <h3>🎁 BONUS #1</h3>
+                <p><strong>Wszystkie Gotowe Prompty Custom GPT</strong></p>
+                <p>Gotowe prompty dla Custom GPT (ChatGPT Plus) - klik link i działa. Zero konfiguracji.</p>
+                <p class="bonus-value">Wartość: 197 zł</p>
+            </div>
+
+            <div class="bonus-card">
+                <h3>🎁 BONUS #2</h3>
+                <p><strong>Szablony DARMOWYCH Projektów AI</strong></p>
+                <p>Instrukcje + szablony do wklejenia w ChatGPT/Claude Free. Projekty z pamięcią (AI zapamięta Ciebie).</p>
+                <p class="bonus-value">Wartość: 247 zł</p>
+            </div>
+
+            <div class="bonus-card">
+                <h3>🎁 BONUS #3</h3>
+                <p><strong>Natychmiastowy Dostęp</strong></p>
+                <p>Wszystkie materiały dostępne od razu po zakupie. Zacznij korzystać z narzędzi AI jeszcze dzisiaj.</p>
+                <p class="bonus-value">Wartość: Bezcenna</p>
+            </div>
+        </div>
+        
+        <div class="cta-section" style="margin-top: 50px;">
+            <p style="font-size: 1.2rem; margin-bottom: 20px;"><strong>Łączna wartość bonusów: 444 zł+</strong></p>
+            <p style="font-size: 1.2rem; margin-bottom: 40px;">Dziś dostajesz WSZYSTKO za 497 zł (jednorazowo)</p>
+            <a href="#cena" class="cta-button">DOŁĄCZAM + BONUSY →</a>
+        </div>
+    </div>
+</section>
+
+<!-- 18. AUTOR -->
+<section class="section-white">
+    <div class="container">
+        <h2 class="section-title">Kto Stworzył Ten Kurs?</h2>
+        
+        <div class="author">
+            <h3>Cześć, jestem Przemek 👋</h3>
+            
+            <p style="margin: 20px 0; font-size: 1.1rem;">
+                I mam ADHD.
+            </p>
+            
+            <p style="margin: 20px 0;">
+                Nie jestem "guru productivity" który twierdzi, że ADHD to "supermoc" (to bullshit).
+            </p>
+            
+            <p style="margin: 20px 0;">
+                Jestem osobą z ADHD, która przez lata próbowała WSZYSTKICH "sprawdzonych metod":
+            </p>
+            
+            <ul style="margin: 20px 0;">
+                <li>Bullet journal (przestałem po tygodniu - za dużo pracy)</li>
+                <li>Pomodoro (timer brzęczy, ale ja jestem w hiperfokusie - przerywa)</li>
+                <li>Blokowanie czasu (zakłada że czuję czas - nie czuję)</li>
+                <li>SMART goals ("30 minut ćwiczeń dziennie" - zero dopaminy, zero motywacji)</li>
+            </ul>
+            
+            <p style="margin: 20px 0;">
+                <strong>Nic z tego nie działało.</strong> Bo to narzędzia dla neurotypowych.
+            </p>
+            
+            <p style="margin: 20px 0;">
+                Więc zacząłem tworzyć WŁASNE narzędzia. Bazując na neurobiologii ADHD. Używając AI.
+            </p>
+            
+            <p style="margin: 20px 0;">
+                I nagle... zaczęło działać.
+            </p>
+            
+            <p style="margin: 20px 0;">
+                Chaos → Klarowność w 30 sekund (Clarity AI).<br>
+                Paraliż → Zero blokad (Micro-Start).<br>
+                Panika w ostatniej chwili → Świadomość pilności (System Odliczania Dni).<br>
+                Samotność → Body Doubling AI.
+            </p>
+            
+            <p style="margin: 20px 0; font-size: 1.2rem;">
+                <strong>Te narzędzia zmieniły moje życie.</strong>
+            </p>
+            
+            <p style="margin: 20px 0;">
+                I teraz chcę podzielić się nimi z Tobą.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- 19. GWARANCJA -->
+<section class="section-gray">
+    <div class="container">
+        <h2 class="section-title">Gwarancja 30 Dni (Zero Ryzyka)</h2>
+        
+        <div class="guarantee">
+            <div class="guarantee-badge">🛡️</div>
+            <h3>Bezwarunkowa Gwarancja Zwrotu Pieniędzy</h3>
+            <p style="font-size: 1.1rem; margin: 20px 0;">
+                Kup kurs. Testuj przez 30 dni. Jeśli nie zadziała - zwracam <strong>100% pieniędzy</strong>.
+            </p>
+            <p style="font-size: 1.1rem; margin: 20px 0;">
+                Bez pytań. Bez zamieszania. Jeden e-mail i pieniądze wracają na konto.
+            </p>
+            <p style="font-size: 1.2rem; margin: 30px 0; font-weight: 600;">
+                Albo narzędzia AI działają dla Twojego mózgu z ADHD...<br>
+                Albo nie płacisz ani złotówki.
+            </p>
+            <p style="margin-top: 30px;">
+                <strong>Masz 30 dni na sprawdzenie czy to działa. Zero ryzyka.</strong>
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- 20. DLA KOGO -->
+<section class="section-white">
+    <div class="container">
+        <h2 class="section-title">Czy Ten Kurs Jest Dla Ciebie?</h2>
+        
+        <div class="for-who">
+            <div class="for-who-grid">
+                <div class="for-yes">
+                    <h3>✅ TEN KURS JEST DLA CIEBIE, jeśli:</h3>
+                    <ul>
+                        <li>Masz diagnozę ADHD (lub silne podejrzenie)</li>
+                        <li>Tradycyjne metody produktywności NIE działają</li>
+                        <li>Czujesz paraliż wykonawczy ("nie mogę zacząć")</li>
+                        <li>Ślepota czasowa - nie czujesz upływu czasu</li>
+                        <li>SMART goals = zero motywacji</li>
+                        <li>RSD / emocjonalne rollercoastery</li>
+                        <li>Pracujesz sam i łatwo się rozpraszasz</li>
+                        <li>Chcesz narzędzi które ROZUMIEJĄ mózg z ADHD</li>
+                    </ul>
+                </div>
+                
+                <div class="for-no">
+                    <h3>❌ TEN KURS NIE JEST DLA CIEBIE, jeśli:</h3>
+                    <ul>
+                        <li>Nie masz ADHD (narzędzia są specyficzne dla mózgu z ADHD)</li>
+                        <li>Tradycyjne metody działają (bullet journal, blokowanie czasu, itp.)</li>
+                        <li>Nie chcesz używać AI (kurs bazuje na narzędziach AI)</li>
+                        <li>Szukasz "szybkiego rozwiązania" bez żadnego wysiłku</li>
+                        <li>Nie jesteś gotowy na testowanie i dopasowanie narzędzi</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 22. FINALE -->
+<section class="section-gray">
+    <div class="container">
+        <h2 class="section-title">Ostatnie Słowo...</h2>
+        
+        <div class="intro">
+            <p>Słuchaj...</p>
+            
+            <p>Wiem, że już próbowałeś WSZYSTKIEGO.</p>
+            
+            <p>I wiem, że czujesz się zmęczony niedziałającymi "rozwiązaniami".</p>
+            
+            <p>Ale powiem Ci coś:</p>
+            
+            <p><strong>To nie Twoja wina, że tradycyjne metody nie działają.</strong></p>
+            
+            <p>Twój mózg działa INACZEJ. Potrzebujesz INNYCH narzędzi.</p>
+            
+            <p>Narzędzi, które rozumieją:</p>
+            
+            <ul style="margin: 30px 0;">
+                <li>Ślepotę czasową (System Odliczania Dni zamiast "planuj od dzisiaj")</li>
+                <li>Paraliż wykonawczy (Micro-start zamiast "po prostu zacznij")</li>
+                <li>Brak motywacji (4 C's zamiast SMART goals)</li>
+                <li>RSD (CBT/DBT zamiast "nie przejmuj się")</li>
+                <li>Samotność (Body Doubling AI zamiast walki w pojedynkę)</li>
+            </ul>
+
+            <p><strong>Te narzędzia AI SĄ dla mózgu z ADHD.</strong></p>
+            
+            <p>I masz 30 dni na sprawdzenie czy działają dla Ciebie. Zero ryzyka.</p>
+            
+            <p style="font-size: 1.3rem; margin: 40px 0; text-align: center; font-weight: 700;">
+                Możesz kontynuować walkę z własnym mózgiem...<br>
+                Albo możesz zacznąć z nim współpracować.
+            </p>
+            
+            <p style="font-size: 1.2rem; margin: 40px 0; text-align: center;">
+                Wybór należy do Ciebie.
+            </p>
+        </div>
+        
+        <div class="cta-section" style="margin-top: 60px;">
+            <div class="price-card">
+                <p style="font-size: 1.3rem; margin-bottom: 20px;"><strong>Pełny Pakiet:</strong></p>
+                <ul style="text-align: left; margin: 30px 0; font-size: 1.1rem;">
+                    <li>✓ 5 Modułów AI (20 lekcji video)</li>
+                    <li>✓ 4 Gotowe Prompty Custom GPT (gotowe do użycia)</li>
+                    <li>✓ 5 DARMOWYCH Projektów AI (ChatGPT/Claude Free)</li>
+                    <li>✓ Wszystkie bonusy (wartość 444 zł)</li>
+                    <li>✓ Natychmiastowy dostęp do wszystkich materiałów</li>
+                    <li>✓ Gwarancja 30 dni (zwrot 100%)</li>
+                </ul>
+
+                <p class="price-old">Wartość: 997 zł</p>
+                <p class="price-current">497 zł</p>
+                <p class="price-note">Jednorazowa płatność</p>
+                
+                <a href="#" class="cta-button" style="margin-top: 30px;">TAK, CHCĘ ZACZĄĆ WSPÓŁPRACĘ Z MOIM MÓZGIEM →</a>
+                
+                <p style="margin-top: 30px; color: var(--warning); font-weight: 600;">
+                    ⏰ Cena promocyjna 497 zł kończy się za <span id="countdown3">23:59:47</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 23. FAQ -->
+<section class="section-white">
+    <div class="container">
+        <h2 class="section-title">Najczęściej Zadawane Pytania</h2>
+        
+        <div class="faq">
+            <div class="faq-item">
+                <h3>Czy kurs jest naprawdę DARMOWY? (narzędzia AI)</h3>
+                <p>TAK! Narzędzia AI (projekty ChatGPT/Claude) są <strong>całkowicie darmowe</strong> (Free plan wystarczy). Custom GPT wymaga ChatGPT Plus ($20/msc), ale to opcjonalne - masz alternatywę w postaci DARMOWYCH projektów.</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Czy to zadziała jeśli NIE mam diagnozy ADHD?</h3>
+                <p>Jeśli masz <strong>silne podejrzenie</strong> ADHD (rozpoznajesz symptomy: time blindness, paraliż, brak motywacji, RSD) - kurs będzie działać. Narzędzia są stworzone dla ADHD brain (niezależnie od formalnej diagnozy).</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Ile czasu zajmuje przejście kursu?</h3>
+                <p>Kurs ma 5 modułów × 4 lekcje = 20 lekcji (każda 10-12 minut). Łącznie ~4 godziny video. Ale <strong>nie musisz</strong> oglądać wszystkiego naraz - możesz iść w swoim tempie (ADHD-friendly).</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Co jeśli nie zadziała dla mnie?</h3>
+                <p><strong>Gwarancja 30 dni.</strong> Jeśli nie zadziała - zwracam 100% pieniędzy. Bez pytań. Jeden e-mail i pieniądze wracają.</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Czy to wymaga ChatGPT Plus?</h3>
+                <p><strong>NIE!</strong> Custom GPT wymaga Plus, ale to opcjonalne. Masz instrukcje tworzenia <strong>DARMOWYCH projektów</strong> w ChatGPT Free lub Claude Free (z pamięcią AI).</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Czy dostanę faktury VAT?</h3>
+                <p>TAK. Automatyczna faktura VAT po zakupie (wysyłka na e-mail).</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Jak długo mam dostęp do kursu?</h3>
+                <p>Po zakupie otrzymujesz natychmiastowy dostęp do wszystkich materiałów. Możesz przerabiać kurs we własnym tempie.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<section class="section-gray" style="padding: 40px 20px; text-align: center;">
+    <div class="container">
+        <p style="margin-bottom: 20px;">© 2025 Zrozum Swoje ADHD z AI. Wszystkie prawa zastrzeżone.</p>
+        <p><a href="#" style="color: var(--primary); text-decoration: none;">Regulamin</a> | <a href="#" style="color: var(--primary); text-decoration: none;">Polityka Prywatności</a></p>
+    </div>
+</section>
+
+<script>
+// COUNTDOWN TIMER
+function updateCountdown() {
+    const countdownElements = [
+        document.getElementById('countdown'),
+        document.getElementById('countdown2'),
+        document.getElementById('countdown3')
+    ];
+    
+    // Set deadline to 24 hours from now
+    const now = new Date().getTime();
+    const deadline = now + (24 * 60 * 60 * 1000);
+    
+    function update() {
+        const now = new Date().getTime();
+        const distance = deadline - now;
+        
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        
+        const timeString = 
+            String(hours).padStart(2, '0') + ':' + 
+            String(minutes).padStart(2, '0') + ':' + 
+            String(seconds).padStart(2, '0');
+        
+        countdownElements.forEach(el => {
+            if (el) el.textContent = timeString;
+        });
+        
+        if (distance < 0) {
+            countdownElements.forEach(el => {
+                if (el) el.textContent = "OFERTA WYGASŁA";
+            });
+        }
+    }
+    
+    update();
+    setInterval(update, 1000);
+}
+
+// SMOOTH SCROLL
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+        }
+    });
+});
+
+// INIT
+updateCountdown();
+</script>
+
+</body>
+</html>
