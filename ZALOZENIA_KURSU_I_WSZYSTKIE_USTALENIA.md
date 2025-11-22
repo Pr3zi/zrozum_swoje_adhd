@@ -25,9 +25,9 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
    - Otwarte pętle mentalne
    - Za dużo myśli jednocześnie
 
-2. **Emocje i RSD (Rejection Sensitive Dysphoria)**
+2. **Emocje i RSD (Rejection Sensitive Dysphoria - nadwrażliwość na odrzucenie)**
    - Wahania nastroju, sinusoida emocjonalna
-   - Lęk, anxiety
+   - Lęk, niepokój (anxiety)
    - "Wszystko czuję 10x mocniej"
    - Jedna krytyka wyłącza na cały dzień
 
@@ -62,39 +62,39 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 **Źródło:** Transkrypt "Toxic Productivity and ADHD" (Jesse J. Anderson)
 
-**KLUCZOWA ZASADA:** Neurotypowe motywatory (importance, rewards, consequences) **NIE DZIAŁAJĄ** dla ADHD.
+**KLUCZOWA ZASADA:** Neurotypowe motywatory (ważność/importance, nagrody/rewards, konsekwencje/consequences) **NIE DZIAŁAJĄ** dla ADHD.
 
 **ADHD motywują 4 C's:**
 
-1. **Captivate** - zainteresowanie, fascynacja
-   - "Co mnie captivuje?"
-   - "Co jest interesting?"
+1. **Captivate (Fascynacja)** - zainteresowanie, urzeczenie
+   - "Co mnie fascynuje?"
+   - "Co jest dla mnie interesujące?"
 
-2. **Create** - nowość, kreatywność
+2. **Create (Tworzenie)** - nowość, kreatywność
    - "Co nowe?"
    - "Co twórcze?"
-   - Anticipation efektu tworzenia
+   - Oczekiwanie (anticipation) efektu tworzenia
 
-3. **Compete** - wyzwanie, challenge
-   - "Ktoś mówi że się nie da? Game on!"
-   - Competition, challenge
+3. **Compete (Rywalizacja)** - wyzwanie, konkurencja
+   - "Ktoś mówi że się nie da? Game on! (Wyzwanie przyjęte!)"
+   - Współzawodnictwo (competition), wyzwanie (challenge)
 
-4. **Complete** - deadline, urgency
-   - Presja czasu
-   - "Due date za 2 dni → mogę działać"
+4. **Complete (Finalizacja)** - deadline, pilność
+   - Presja czasu (urgency)
+   - "Termin (due date) za 2 dni → mogę działać"
 
-**STRATEGIA:** "Eat ice cream first" (NIE "eat the frog first")
+**STRATEGIA:** "Eat ice cream first" / "Najpierw lody" (NIE "eat the frog first" / "najpierw żaba")
 
 - Znajdź zadanie z 4 C's
-- Zbuduj momentum
+- Zbuduj rozpęd (momentum)
 - POTEM zaatakuj trudniejsze zadania
 
 **Inne kluczowe koncepty (Jesse J. Anderson):**
-- **Micro-commitments** - "zrobię 2 naczynia" (nie "posprzątam kuchnię")
-- **Side quests** - buduj momentum zanim zaatakujesz główny boss
-- **Time-based goals** - "10 min sprzątania" (nie "cała kuchnia")
-- **Break into first few steps** (nie wszystkie!) - wybierz te z 4 C's
-- **Embrace the pivot** - systemy będą failować, to OK
+- **Micro-commitments (Mikro-zobowiązania)** - "zrobię 2 naczynia" (nie "posprzątam kuchnię")
+- **Side quests (Poboczne zadania)** - buduj rozpęd zanim zaatakujesz głównego bossa (główne zadanie)
+- **Time-based goals (Cele czasowe)** - "10 min sprzątania" (nie "cała kuchnia")
+- **Break into first few steps (Podziel na pierwsze kroki)** (nie wszystkie!) - wybierz te z 4 C's
+- **Embrace the pivot (Akceptuj zmiany)** - systemy będą zawodzić (failować), to OK
 
 ---
 
@@ -102,78 +102,78 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 **Źródło:** Transkrypt "ADHD Planning System" (Ruri Ohama)
 
-#### **Lead Day System:**
+#### **Lead Day System (System Dni Wyprzedzenia):**
 
 **Problem:** ADHD ma słabe poczucie czasu. Nie wiemy ile co zajmuje, gubimy się w planowaniu.
 
-**Rozwiązanie:** Odwrotne planowanie od deadline
+**Rozwiązanie:** Odwrotne planowanie od deadline (termin końcowy)
 
-- Każde zadanie ma **"lead day"** = ile dni PRZED finalnym deadline musi być zrobione
-- Pracujesz od końca (final deadline) do początku
+- Każde zadanie ma **"lead day" (dzień wyprzedzenia)** = ile dni PRZED finalnym deadline musi być zrobione
+- Pracujesz od końca (final deadline / termin końcowy) do początku
 
 **Przykład:**
-- Prezentacja (handover) = Day 10 → lead day = 0
-- Final practice = Day 9 → lead day = 1
-- Manager review = Day 7 → lead day = 3
-- First draft slides = Day 4 → lead day = 6
-- Research + outline = Day 3 → lead day = 7
+- Prezentacja (handover / przekazanie) = Dzień 10 → lead day = 0
+- Ostateczna próba (final practice) = Dzień 9 → lead day = 1
+- Przegląd przez managera (manager review) = Dzień 7 → lead day = 3
+- Pierwszy szkic slajdów (first draft slides) = Dzień 4 → lead day = 6
+- Badania + zarys (research + outline) = Dzień 3 → lead day = 7
 
-**Automatyczne urgency levels:**
-- "past due" - spóźniony!
-- "due today" - deadline dziś
-- "due tomorrow" - masz 1 dzień buffer
-- "better start soon" - niedługo
-- "on track" - luz
+**Automatyczne poziomy pilności (urgency levels):**
+- "past due" (po terminie) - spóźniony!
+- "due today" (termin dziś) - deadline dziś
+- "due tomorrow" (termin jutro) - masz 1 dzień bufora
+- "better start soon" (lepiej zacznij wkrótce) - niedługo
+- "on track" (na dobrej drodze) - luz
 
-**Kluczowa korzyść:** Nie musisz używać executive function do obliczania priorytetów - system robi to za Ciebie.
+**Kluczowa korzyść:** Nie musisz używać funkcji wykonawczych (executive function) do obliczania priorytetów - system robi to za Ciebie.
 
-#### **Sprint Method:**
+#### **Sprint Method (Metoda Sprintów):**
 
-**Problem:** Time blocking nie działa dla ADHD (za sztywny, nie możemy estymować czasu, różna energia każdego dnia)
+**Problem:** Time blocking (blokowanie czasu) nie działa dla ADHD (za sztywne, nie możemy estymować czasu, różna energia każdego dnia)
 
-**Rozwiązanie:** Sprints (kategorie zadań, nie konkretne godziny)
+**Rozwiązanie:** Sprinty (kategorie zadań, nie konkretne godziny)
 
 **4 Sprinty (max 2h każdy):**
-1. **Sprint 1: Urgent** - rzeczy screaming for attention
-2. **Sprint 2: Deadlines** - zbliżające się deadlines
-3. **Sprint 3: Admin** - emails, scheduling, meetings, chores
-4. **Sprint 4: Creative** - brainstorming, writing, tworzenie
+1. **Sprint 1: Urgent (Pilne)** - rzeczy krzyczące o uwagę (screaming for attention)
+2. **Sprint 2: Deadlines (Terminy)** - zbliżające się terminy (deadlines)
+3. **Sprint 3: Admin (Administracja)** - e-maile, planowanie, spotkania, obowiązki
+4. **Sprint 4: Creative (Kreatywne)** - burza mózgów, pisanie, tworzenie
 
 **Zasady:**
-- Max 2h per sprint (ideally 90 min)
-- 15-30 min transition time między sprintami
-- Elastyczność - zmieniasz kolejność sprintów based on energy
-- Morning creative? Rób Sprint 4 pierwszy
-- Morning urgent? Rób Sprint 1-2 pierwszy
+- Maksymalnie 2h na sprint (idealnie 90 min)
+- 15-30 min czasu przejścia (transition time) między sprintami
+- Elastyczność - zmieniasz kolejność sprintów w zależności od energii (based on energy)
+- Energia twórcza rano? Rób Sprint 4 pierwszy
+- Pilne zadania rano? Rób Sprint 1-2 pierwszy
 
-**Time tracking:**
-- Estimated vs Actual time
+**Śledzenie czasu (Time tracking):**
+- Szacowany vs Rzeczywisty czas (Estimated vs Actual time)
 - Uczysz się ile rzeczy NAPRAWDĘ zajmują
 - Lepsze planowanie w przyszłości
 
-**Recurring projects:**
-- Setup once, duplicate button
+**Powtarzające się projekty (Recurring projects):**
+- Ustaw raz, przycisk duplikowania (duplicate button)
 - Większość zadań się powtarza
-- Automatyzacja setupu
+- Automatyzacja konfiguracji (setupu)
 
 ---
 
 ### 4. **CBT/DBT dla Emocji (Moduł 3)**
 
-**CBT (Cognitive Behavioral Therapy):**
-- **Thought records** - Fakt → Interpretacja → Narracja
+**CBT (Cognitive Behavioral Therapy / Terapia Poznawczo-Behawioralna):**
+- **Thought records (Zapiski myśli)** - Fakt → Interpretacja → Narracja
 - Oddzielenie faktu od myśli o fakcie
-- Testowanie myśli (evidence for/against)
+- Testowanie myśli (dowody za/przeciw - evidence for/against)
 
-**DBT (Dialectical Behavior Therapy):**
-- **Emotion regulation** - PLEASE skills
-- **Distress tolerance** - TIPP
-- **Mindfulness** - obserwuj bez oceniania
-- **Interpersonal effectiveness** - DEAR MAN
+**DBT (Dialectical Behavior Therapy / Dialektyczna Terapia Behawioralna):**
+- **Emotion regulation (Regulacja emocji)** - Umiejętności PLEASE (Physical illness, Eating, Avoid mood-altering substances, Sleep, Exercise)
+- **Distress tolerance (Tolerancja stresu)** - Techniki TIPP (Temperature, Intense exercise, Paced breathing, Paired muscle relaxation)
+- **Mindfulness (Uważność)** - obserwuj bez oceniania
+- **Interpersonal effectiveness (Skuteczność interpersonalna)** - Technika DEAR MAN (Describe, Express, Assert, Reinforce, Mindful, Appear confident, Negotiate)
 
 **Dla ADHD:**
-- RSD (Rejection Sensitive Dysphoria) - nadwrażliwość na odrzucenie
-- 0/100 reactions (nie 20/80)
+- RSD (Rejection Sensitive Dysphoria / Nadwrażliwość na Odrzucenie) - nadmierna wrażliwość na odrzucenie
+- Reakcje 0/100 (nie 20/80) - wszystko albo nic
 - "Myśl odpłynie" - nie walcz, obserwuj
 
 ---
@@ -185,29 +185,29 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 **Problem klienta:** Chaos mentalny, natłok myśli
 
 **Teoria:**
-- Neurobiologia ADHD (dopamina, VTA, hamulec/gaz)
-- Chaos i Input Overload
+- Neurobiologia ADHD (dopamina, VTA - ventral tegmental area / brzuszne pole nakrywki, hamulec/gaz)
+- Chaos i przeciążenie informacyjne (Input Overload)
 - Model IPO
-- Cognitive Load Theory
+- Teoria obciążenia poznawczego (Cognitive Load Theory)
 
 **Narzędzia:**
 1. **Custom GPT: "Klarowność"** (ty tworzysz)
    - Chaos → Priorytety w 30 sekund
-   - 2 tryby: Clarity (klarowność) + Goals (cele based on 4 C's)
+   - 2 tryby: Clarity (klarowność) + Goals (cele oparte na 4 C's)
    - Dla użytkownika: "Chcesz klarowność czy cel? Nie wiesz? Powiedz jaki masz problem"
 
 2. **Projekt ChatGPT/Claude: "Moja Klarowność"** (oni tworzą)
-   - Z profilem (opcjonalny upload)
+   - Z profilem (opcjonalne przesłanie - upload)
    - Pamięć historii
    - **DARMOWY** (ChatGPT i Claude)
 
-**Strategia:** **DOPAMINA FIRST**
-- Opcja A: NARZĘDZIE najpierw → wow effect → teoria potem
+**Strategia:** **DOPAMINA FIRST (Dopamina najpierw)**
+- Opcja A: NARZĘDZIE najpierw → efekt wow (wow effect) → teoria potem
 - Opcja B: Teoria → narzędzie
 
-**4 C's Integration:**
-- **Complete** (urgency) - "co dziś?"
-- **Captivate** (wow) - efekt w 30 sek
+**4 C's Integration (Integracja 4 C's):**
+- **Complete (Finalizacja)** - pilność (urgency) - "co dziś?"
+- **Captivate (Fascynacja)** - efekt wow - efekt w 30 sek
 
 ---
 
@@ -218,28 +218,28 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 **Teoria:**
 - Profil dopaminowy
 - Środowisko (wspiera vs niszczy)
-- **4 C's of Motivation** (Captivate, Create, Compete, Complete)
-- "Eat ice cream first" (nie "eat the frog")
-- Micro-commitments
-- Side quests
+- **4 C's of Motivation (4 Filary Motywacji)** - Captivate (Fascynacja), Create (Tworzenie), Compete (Rywalizacja), Complete (Finalizacja)
+- "Eat ice cream first" / "Najpierw lody" (nie "eat the frog" / "najpierw żaba")
+- Mikro-zobowiązania (Micro-commitments)
+- Poboczne zadania (Side quests)
 
 **Narzędzia:**
 1. **Custom GPT: "Profil Kontekstowy ADHD"** (ty tworzysz)
    - Tworzy profil w 5-15 min
    - 2 tryby: Szybki (5 min, 5 pytań) | Pełny (15 min, 10 pytań)
-   - Output: plik .md z profilem
+   - Wynik (Output): plik .md z profilem
 
 2. **Custom GPT: "4 C's Coach"** (ty tworzysz)
-   - "Masz listę zadań? Pokażę Ci które ma Captivate/Create/Compete/Complete"
-   - "Zacznij od zadania z 4 C's → zbuduj momentum"
-   - Dla użytkownika: nie "SMART goals", tylko 4 C's framework
+   - "Masz listę zadań? Pokażę Ci które ma element Fascynacji/Tworzenia/Rywalizacji/Finalizacji (Captivate/Create/Compete/Complete)"
+   - "Zacznij od zadania z 4 C's → zbuduj rozpęd (momentum)"
+   - Dla użytkownika: nie "cele SMART" (SMART goals), tylko framework 4 C's
 
 3. **Projekt: "Mój Profil + 4 C's"** (oni tworzą)
    - Profil w bazie wiedzy
    - AI pamięta profil dopaminowy
    - Personalizacja
 
-**WAŻNE:** **NIE SMART goals!** To neurotypical bullshit. Tylko 4 C's.
+**WAŻNE:** **NIE SMART goals (cele SMART)!** To podejście neurotypowe (neurotypical approach). Tylko 4 C's.
 
 ---
 
@@ -248,34 +248,34 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 **Problem klienta:** RSD, wahania nastroju, lęk, "czuję 10x mocniej"
 
 **Teoria:**
-- RSD (Rejection Sensitive Dysphoria)
-- CBT: Thought records, Fakt → Interpretacja → Narracja
-- DBT: PLEASE, TIPP, emotion regulation
-- Distress tolerance
+- RSD (Rejection Sensitive Dysphoria / Nadwrażliwość na Odrzucenie)
+- CBT: Zapiski myśli (Thought records), Fakt → Interpretacja → Narracja
+- DBT: PLEASE, TIPP, regulacja emocji (emotion regulation)
+- Tolerancja stresu (Distress tolerance)
 - "Myśl odpłynie"
 
 **Narzędzia:**
 1. **Custom GPT: "Emocjonalne Wsparcie ADHD"** (ty tworzysz)
-   - Emergency tool
-   - Quick reframing
-   - Instant relief
+   - Narzędzie awaryjne (Emergency tool)
+   - Szybka zmiana perspektywy (Quick reframing)
+   - Natychmiastowa ulga (Instant relief)
 
 2. **Projekt: "Moja Terapia CBT/DBT"** (oni tworzą) ⭐ GŁÓWNE
-   - Thought records (jak w prawdziwej terapii)
-   - Emotion regulation (DBT skills)
+   - Zapiski myśli (Thought records) - jak w prawdziwej terapii
+   - Regulacja emocji (Emotion regulation) - umiejętności DBT
    - Pamięta historię emocjonalną
    - Pamięta wzorce
-   - Długoterminowe wsparcie
+   - Długoterminowe wsparcie (Long-term support)
    - **DARMOWY**
 
 **Dlaczego Projekt > Custom GPT:**
 - Pamięć historii emocjonalnej
 - Personalizacja (profil w bazie)
-- Long-term support
+- Długoterminowe wsparcie (Long-term support)
 
-**4 C's Integration:**
-- **Captivate** - ciekawe reframingi
-- **Create** - nowe narracje o sobie
+**4 C's Integration (Integracja 4 C's):**
+- **Captivate (Fascynacja)** - ciekawe reframingi
+- **Create (Tworzenie)** - nowe narracje o sobie
 
 ---
 
@@ -284,31 +284,31 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 **Problem klienta:** Brak priorytetów, nie wiem ile co zajmuje, brak systemu
 
 **Teoria:**
-- **Lead Day System** (Ruri Ohama)
+- **System Dni Wyprzedzenia (Lead Day System)** - Ruri Ohama
   - Odwrotne planowanie
-  - Automatyczne urgency levels
-  - Recurring projects z buttons
-- **Sprint Method**
-  - 4 sprinty (Urgent, Deadlines, Admin, Creative)
-  - Max 2h per sprint
-  - Elastyczność based on energy
-- **Time tracking** (estimated vs actual)
+  - Automatyczne poziomy pilności (urgency levels)
+  - Powtarzające się projekty (Recurring projects) z przyciskami (buttons)
+- **Metoda Sprintów (Sprint Method)**
+  - 4 sprinty: Pilne (Urgent), Terminy (Deadlines), Administracja (Admin), Kreatywne (Creative)
+  - Maksymalnie 2h na sprint
+  - Elastyczność w zależności od energii (based on energy)
+- **Śledzenie czasu (Time tracking)** - szacowany vs rzeczywisty (estimated vs actual)
 - Deficyty funkcji wykonawczych w ADHD
 
 **Narzędzia:**
 1. **Notion/Google Sheets** (oni konfigurują)
-   - Base system
-   - Lead days, sprints, time tracking
+   - Podstawowy system (Base system)
+   - Lead days (dni wyprzedzenia), sprinty, śledzenie czasu
 
 2. **Custom GPT: "Planner AI"** (ty tworzysz)
-   - "Mam projekt X z deadline Y → stwórz lead days"
+   - "Mam projekt X z terminem (deadline) Y → stwórz dni wyprzedzenia (lead days)"
    - "Mam te zadania → które do jakiego sprintu?"
    - "Ile to powinno zająć?"
-   - Pomaga estymować czas
+   - Pomaga szacować (estymować) czas
 
 3. **Projekt: "Mój System Pracy"** (oni tworzą) ⭐
    - Pamięta ich projekty
-   - Pamięta wzorce czasowe (estimated vs actual)
+   - Pamięta wzorce czasowe (szacowany vs rzeczywisty - estimated vs actual)
    - Personalizacja sprintów
    - Integracja z profilem (energia, dopamina)
    - **DARMOWY**
@@ -316,11 +316,11 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 **Dlaczego w Moduł 4, nie wcześniej:**
 - Po fundamentach (M1-M3)
 - Zaawansowany system
-- Wymaga practice z narzędziami basic
+- Wymaga praktyki (practice) z podstawowymi narzędziami (basic)
 
-**4 C's Integration:**
-- **Complete** (urgency) - lead days tworzą urgency
-- **Compete** (challenge) - "sprint 90 min challenge"
+**4 C's Integration (Integracja 4 C's):**
+- **Complete (Finalizacja)** - pilność (urgency) - lead days tworzą poczucie pilności (urgency)
+- **Compete (Rywalizacja)** - wyzwanie (challenge) - "wyzwanie sprint 90 min"
 
 ---
 
@@ -330,26 +330,26 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 **Teoria:**
 - Paraliż wykonawczy w ADHD
-- **Side quests** - rozgrzewka przed głównym bossem
-- **Micro-commitments** - "2 naczynia" (nie "cała kuchnia")
-- **Time-based goals** - "10 min" (nie "całe zadanie")
-- Body doubling
-- Momentum vs overwhelm
+- **Poboczne zadania (Side quests)** - rozgrzewka przed głównym bossem (główne zadanie)
+- **Mikro-zobowiązania (Micro-commitments)** - "2 naczynia" (nie "cała kuchnia")
+- **Cele czasowe (Time-based goals)** - "10 min" (nie "całe zadanie")
+- Metoda body doubling (wspólna praca, wirtualna obecność)
+- Rozpęd vs przytłoczenie (Momentum vs overwhelm)
 
 **Narzędzia:**
 1. **Custom GPT: "Micro-Start Coach"** (ty tworzysz)
    - "Nie mogę zacząć X → pierwszy krok (30 sek): ..."
-   - "Mam 3 zadania → które jest side quest?"
+   - "Mam 3 zadania → które jest pobocznym zadaniem (side quest)?"
    - Generuje atomowy pierwszy krok
 
 2. **Projekt: "Moje Działanie"** (oni tworzą)
    - Pamięta co zacząłeś
    - Pomaga kończyć
-   - Body doubling
-   - Tracking progress
+   - Body doubling (wirtualny towarzysz pracy)
+   - Śledzenie postępów (Tracking progress)
    - **DARMOWY**
 
-**4 C's Integration:**
+**4 C's Integration (Integracja 4 C's):**
 - **WSZYSTKIE 4** - wybierz zadanie z 4 C's na rozgrzewkę
 
 **WAŻNE:** To jest OUTPUT (nie PROCESS). Nie łączymy z Modułem 4.
@@ -361,14 +361,14 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 ### **Zasada:**
 
 **Custom GPT** (ty tworzysz):
-- Quick wins, instant relief
-- Emergency tool
-- "Wow effect"
+- Szybkie wygrane, natychmiastowa ulga (Quick wins, instant relief)
+- Narzędzie awaryjne (Emergency tool)
+- "Efekt wow" (Wow effect)
 - Pierwsze doświadczenie
 - **Dostępne dla wszystkich** (nawet bez premium ChatGPT)
 
 **Projekty ChatGPT/Claude** (oni tworzą):
-- Deep work, long-term
+- Głęboka praca, długoterminowe wsparcie (Deep work, long-term)
 - Pamięć historii, wzorców
 - Baza wiedzy (profil, projekty, emocje)
 - Personalizacja
@@ -380,30 +380,30 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 1. **"Klarowność"** (Moduł 1)
    - Chaos → Priorytety
-   - 2 tryby: Clarity + Goals (based on 4 C's)
+   - 2 tryby: Clarity (klarowność) + Goals (cele oparte na 4 C's)
    - Dla użytkownika: "Klarowność? Cel? Nie wiesz? Powiedz problem"
 
 2. **"Profil Kontekstowy ADHD"** (Moduł 2)
    - Tworzy profil (5-15 min)
-   - Output: .md file
+   - Wynik (Output): plik .md
 
 3. **"4 C's Coach"** (Moduł 2)
    - Pomaga znaleźć zadania z 4 C's
-   - "Eat ice cream first"
+   - "Eat ice cream first" / "Najpierw lody"
 
 4. **"Emocjonalne Wsparcie ADHD"** (Moduł 3)
-   - Emergency reframing
-   - Quick relief
+   - Szybka zmiana perspektywy (Emergency reframing)
+   - Szybka ulga (Quick relief)
 
 5. **"Planner AI"** (Moduł 4)
-   - Lead days
-   - Sprint categorization
-   - Time estimation
+   - Dni wyprzedzenia (Lead days)
+   - Kategoryzacja sprintów (Sprint categorization)
+   - Szacowanie czasu (Time estimation)
 
 6. **"Micro-Start Coach"** (Moduł 5)
    - Atomowy pierwszy krok
-   - Side quests
-   - Body doubling prompt
+   - Poboczne zadania (Side quests)
+   - Zachęta do body doubling (Body doubling prompt)
 
 ---
 
@@ -419,18 +419,18 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 3. **"Moja Terapia CBT/DBT"** (Moduł 3) ⭐
    - Historia emocjonalna
-   - Thought records
+   - Zapiski myśli (Thought records)
    - Wzorce
 
 4. **"Mój System Pracy"** (Moduł 4) ⭐
-   - Lead days + Sprints
-   - Time tracking
-   - Recurring projects
+   - Dni wyprzedzenia (Lead days) + Sprinty
+   - Śledzenie czasu (Time tracking)
+   - Powtarzające się projekty (Recurring projects)
 
 5. **"Moje Działanie"** (Moduł 5)
-   - Tracking started/finished
-   - Body doubling
-   - Momentum
+   - Śledzenie rozpoczętych/ukończonych (Tracking started/finished)
+   - Body doubling (wirtualny towarzysz pracy)
+   - Rozpęd (Momentum)
 
 ---
 
@@ -442,18 +442,18 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 - Ale IPO wymaga separacji PROCESS ≠ OUTPUT
 - 5 modułów = logicznie kompletne
 
-### 2. **Dlaczego "DOPAMINA FIRST"?**
+### 2. **Dlaczego "DOPAMINA FIRST" (Dopamina najpierw)?**
 
-- ADHD users = niecierpliwi
-- Quick win → dopamina → motywacja do teorii
-- Jak YouTube hook: wow NAJPIERW, wyjaśnienie POTEM
+- Użytkownicy z ADHD (ADHD users) = niecierpliwi
+- Szybka wygrana (Quick win) → dopamina → motywacja do teorii
+- Jak haczyk YouTube (YouTube hook): efekt wow NAJPIERW, wyjaśnienie POTEM
 
-### 3. **Dlaczego NIE SMART goals?**
+### 3. **Dlaczego NIE SMART goals (cele SMART)?**
 
-- SMART goals = neurotypical approach
-- Oparte na importance, rewards, consequences
+- SMART goals (cele SMART) = podejście neurotypowe (neurotypical approach)
+- Oparte na ważności (importance), nagrodach (rewards), konsekwencjach (consequences)
 - **To nie motywuje ADHD**
-- 4 C's > SMART goals
+- 4 C's > SMART goals (cele SMART)
 
 ### 4. **Dlaczego Lead Day System w Moduł 4, nie wcześniej?**
 
@@ -481,31 +481,31 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 | Problem Klienta | Moduł | Narzędzie | Teoria |
 |-----------------|-------|-----------|--------|
-| Chaos mentalny | M1 | Klarowność (Custom GPT + Projekt) | IPO, Cognitive Load |
+| Chaos mentalny | M1 | Klarowność (Custom GPT + Projekt) | IPO, Obciążenie poznawcze (Cognitive Load) |
 | "Nie rozumiem siebie" | M2 | Profil + 4 C's Coach | 4 C's, profil dopaminowy |
 | RSD, emocje | M3 | Terapia CBT/DBT (Projekt) | CBT, DBT, RSD |
-| Brak priorytetów | M4 | Planner AI + System Pracy | Lead Days, Sprints |
-| Paraliż wykonawczy | M5 | Micro-Start Coach | Side quests, micro-commits |
+| Brak priorytetów | M4 | Planner AI + System Pracy | Dni wyprzedzenia (Lead Days), Sprinty |
+| Paraliż wykonawczy | M5 | Micro-Start Coach | Poboczne zadania (Side quests), Mikro-zobowiązania (micro-commits) |
 
 ---
 
 ## ⚠️ CZEGO UNIKAMY (ANTI-PATTERNS)
 
 ### ❌ **NIE używamy:**
-- SMART goals (neurotypical approach)
-- "Eat the frog first" (nie działa dla ADHD)
-- "Just try harder" (toxic productivity)
-- Strict time blocking (za sztywne)
-- "Break project into ALL steps" (overwhelm)
-- Importance/rewards/consequences jako główne motywatory
+- SMART goals / cele SMART (podejście neurotypowe - neurotypical approach)
+- "Eat the frog first" / "Najpierw żaba" (nie działa dla ADHD)
+- "Just try harder" / "Po prostu staraj się bardziej" (toksyczna produktywność - toxic productivity)
+- Ścisłe blokowanie czasu (Strict time blocking) - za sztywne
+- "Rozłóż projekt na WSZYSTKIE kroki" (Break project into ALL steps) - przytłoczenie (overwhelm)
+- Ważność/nagrody/konsekwencje (Importance/rewards/consequences) jako główne motywatory
 
 ### ✅ **Zamiast tego:**
-- 4 C's of Motivation
-- "Eat ice cream first"
-- Micro-commitments
-- Sprint method (elastyczność)
-- Break into FIRST FEW steps (wybierz te z 4 C's)
-- Captivate/Create/Compete/Complete
+- 4 C's of Motivation (4 Filary Motywacji)
+- "Eat ice cream first" / "Najpierw lody"
+- Mikro-zobowiązania (Micro-commitments)
+- Metoda sprintów (Sprint method) - elastyczność
+- Rozłóż na PIERWSZE KILKA kroków (Break into FIRST FEW steps) - wybierz te z 4 C's
+- Fascynacja/Tworzenie/Rywalizacja/Finalizacja (Captivate/Create/Compete/Complete)
 
 ---
 
@@ -515,17 +515,17 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 **Dwie ścieżki:**
 
-**Opcja A: DOPAMINA FIRST** ⭐ REKOMENDOWANE
+**Opcja A: DOPAMINA FIRST (Dopamina najpierw)** ⭐ REKOMENDOWANE
 1. TERAZ → Custom GPT "Klarowność"
-2. 30 sekund → WOW EFFECT
-3. Dopamina hit
+2. 30 sekund → EFEKT WOW (WOW EFFECT)
+3. Zastrzyk dopaminy (Dopamina hit)
 4. POTEM teoria (Lekcje 1-4)
 5. OPCJONALNIE: Profil
 
 **Opcja B: Klasyczna**
 1. Teoria (Lekcje 1-3)
 2. Lekcja 4 → narzędzie
-3. Wow effect
+3. Efekt wow (Wow effect)
 4. OPCJONALNIE: Profil
 
 **Dla użytkownika:**
@@ -534,19 +534,19 @@ Ten dokument zawiera **WSZYSTKIE ustalenia** dotyczące kursu "Zrozum Swoje ADHD
 
 ---
 
-## 📝 NAMING CONVENTIONS (dla użytkownika)
+## 📝 KONWENCJE NAZEWNICTWA (NAMING CONVENTIONS) - dla użytkownika
 
-**WAŻNE:** Wewnętrznie mówimy "Clarity & Goals", ale dla użytkownika:
+**WAŻNE:** Wewnętrznie mówimy "Clarity & Goals" (Klarowność & Cele), ale dla użytkownika:
 
 **✅ Po polsku:**
 - "Chcesz **klarowność** czy chcesz ustalić **cel**?"
 - "Nie wiesz? Powiedz jaki masz **problem**"
 
 **❌ Nie:**
-- "Czy chcesz osiągnąć clarity?"
-- "Czy chcesz achieve goals?"
+- "Czy chcesz osiągnąć clarity (klarowność)?"
+- "Czy chcesz achieve goals (osiągnąć cele)?"
 
-**Język:** Polski, przystępny, bezpośredni, bez corporate bullshitu.
+**Język:** Polski, przystępny, bezpośredni, bez korporacyjnego bełkotu (corporate bullshit).
 
 ---
 
@@ -576,24 +576,24 @@ Każdy moduł buduje na poprzednich:
 ## 📚 ŹRÓDŁA I INSPIRACJE
 
 ### **Transkrypty:**
-1. **Jesse J. Anderson** - "Toxic Productivity and ADHD"
-   - 4 C's of Motivation
-   - "Eat ice cream first"
-   - Micro-commitments
-   - Side quests
+1. **Jesse J. Anderson** - "Toxic Productivity and ADHD" (Toksyczna Produktywność i ADHD)
+   - 4 C's of Motivation (4 Filary Motywacji)
+   - "Eat ice cream first" (Najpierw lody)
+   - Mikro-zobowiązania (Micro-commitments)
+   - Poboczne zadania (Side quests)
    - Plik: `transkrypt_jesse_j_anderson_4cs_motivation.md`
 
-2. **Ruri Ohama** - "ADHD Planning System"
-   - Lead Day System
-   - Sprint Method
-   - Time tracking (estimated vs actual)
+2. **Ruri Ohama** - "ADHD Planning System" (System Planowania dla ADHD)
+   - System Dni Wyprzedzenia (Lead Day System)
+   - Metoda Sprintów (Sprint Method)
+   - Śledzenie czasu (Time tracking) - szacowany vs rzeczywisty (estimated vs actual)
    - Plik: `transkrypt_ruri_ohama_lead_days_sprints.md`
 
 ### **Badania naukowe:**
 - Volkow et al. (2009) - Dopamina i ADHD
-- Barkley (1997) - Behavioral Inhibition Theory
-- Sweller (1988) - Cognitive Load Theory
-- Dr. William Dodson - Interest-Based Nervous System (4 C's)
+- Barkley (1997) - Teoria Hamowania Behawioralnego (Behavioral Inhibition Theory)
+- Sweller (1988) - Teoria Obciążenia Poznawczego (Cognitive Load Theory)
+- Dr. William Dodson - System Nerwowy Oparty na Zainteresowaniu (Interest-Based Nervous System) - 4 C's
 
 ### **Dane klientów:**
 - `klienci_najwazniejsze_cele_i_przeszkody.md` - 100+ odpowiedzi z społeczności
@@ -626,8 +626,8 @@ Każdy moduł buduje na poprzednich:
 - Wszystkie pliki teorii
 
 **Społeczność:**
-- Skool community
-- Kanały: #wow-effect, #clarity-wins, #moj-profil-adhd, #teoria, etc.
+- Społeczność Skool (Skool community)
+- Kanały: #wow-effect (efekt-wow), #clarity-wins (wygrane-klarowności), #moj-profil-adhd, #teoria, etc.
 
 ---
 
@@ -670,10 +670,10 @@ Każdy moduł buduje na poprzednich:
 1. Przeczytaj WSZYSTKIE sekcje tego pliku
 2. Przeczytaj transkrypty (Jesse J., Ruri Ohama)
 3. Przeczytaj `klienci_najwazniejsze_cele_i_przeszkody.md`
-4. Zrozum IPO + 4 C's + Lead Days + CBT/DBT
-5. Pamiętaj: **NIE SMART goals**, tylko 4 C's
+4. Zrozum IPO + 4 C's + Lead Days (Dni Wyprzedzenia) + CBT/DBT
+5. Pamiętaj: **NIE SMART goals (cele SMART)**, tylko 4 C's
 6. Pamiętaj: **Projekty są DARMOWE** (ChatGPT i Claude)
-7. Pamiętaj: **DOPAMINA FIRST** (wow effect przed teorią)
+7. Pamiętaj: **DOPAMINA FIRST (Dopamina najpierw)** - efekt wow (wow effect) przed teorią
 8. Pamiętaj: **PROCESS ≠ OUTPUT** (nie łączymy M4 i M5)
 
 ---
