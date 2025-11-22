@@ -10,10 +10,10 @@
 
 ## 🎯 Po ukończeniu tego modułu uczestnik:
 
-✅ **Rozumie paraliż wykonawczy** (executive dysfunction) - neurobiologia
-✅ **Opanował micro-start technique** - "ridiculous small" pierwszy krok
-✅ **Zna body doubling** - AI jako companion (nie jesteś sam)
-✅ **Ma narzędzie AI** - Micro-Start Coach + Body Doubling (Custom GPT / Projekt DARMOWY)
+✅ **Rozumie paraliż wykonawczy (executive dysfunction)** - neurobiologia
+✅ **Opanował technikę mikro-startu (micro-start technique)** - "absurdalnie małe (ridiculous small)" pierwszy krok
+✅ **Zna body doubling (towarzyszenie w pracy)** - AI jako towarzysz (companion) - nie jesteś sam
+✅ **Ma narzędzie AI** - Micro-Start Coach + Body Doubling (Custom GPT / Projekty Claude - DARMOWY)
 
 ---
 
@@ -43,20 +43,20 @@
 
 **Neurobiologia ADHD:**
 
-1. **Niski poziom dopaminy** (prefrontal cortex)
-   - Dopamina = "start signal" (inicjacja działania)
-   - ADHD brain = niski baseline → **słaby start signal**
+1. **Niski poziom dopaminy** (kora przedczołowa / prefrontal cortex)
+   - Dopamina = "sygnał startu (start signal)" - inicjacja działania
+   - Mózg z ADHD (ADHD brain) = niski poziom bazowy (baseline) → **słaby sygnał startu**
 
-2. **Brak urgency/interest** (4 C's)
-   - Task nie jest: Captivating, Creative, Competitive, ani Complete (deadline)
-   - Zero dopaminy → **zero start**
+2. **Brak pilności/zainteresowania (urgency/interest)** - 4 C's
+   - Zadanie (Task) nie jest: Zafascynujące (Captivating), Twórcze (Creative), Rywalizacyjne (Competitive), ani do Zakończenia (Complete) - deadline
+   - Zero dopaminy → **zero startu**
 
-3. **Task wydaje się "za duży"** (overwhelm)
-   - Working memory (ADHD) = mały (~3-4 items)
-   - Duży task = **za dużo kroków** → przeciążenie → paraliż
+3. **Zadanie wydaje się "za duże"** (przytłoczenie / overwhelm)
+   - Pamięć robocza (Working memory) ADHD = mała (~3-4 elementy)
+   - Duże zadanie (task) = **za dużo kroków** → przeciążenie → paraliż
 
 4. **Perfekcjonizm** (lęk przed błędem)
-   - "Muszę zrobić idealnie" → lęk → RSD (rejection sensitive dysphoria)
+   - "Muszę zrobić idealnie" → lęk → RSD (Odrzuceniowa Wrażliwość Dysforyczna / Rejection Sensitive Dysphoria)
    - **Nie zaczynam**, bo "jeśli zrobię źle = odrzucenie"
 
 **Rezultat:**
@@ -66,36 +66,36 @@
 
 ## 🔧 Rozwiązanie: Micro-Start + Body Doubling
 
-### **1. Micro-Start Technique**
+### **1. Technika Mikro-Startu (Micro-Start Technique)**
 
 **Zasada:**
-> Nie próbuj zacząć **zadania**. Zacznij **ridiculous small krok**.
+> Nie próbuj zacząć **zadania**. Zacznij **absurdalnie mały krok (ridiculous small step)**.
 
 **Przykład:**
 
 **Zadanie:** "Napisać raport" (duże, przytłaczające)
-**Micro-start:** "Otwórz plik Word" (2 sekundy)
+**Mikro-start (Micro-start):** "Otwórz plik Word" (2 sekundy)
 
 **Co się dzieje:**
-- Otwarcie pliku = **start** (prefrontal cortex aktywowany)
+- Otwarcie pliku = **start** (kora przedczołowa / prefrontal cortex aktywowana)
 - Po otwarciu → łatwiej napisać **jeden** tytuł
 - Po tytule → łatwiej napisać **jedno** zdanie
-- **Momentum** (raz w ruchu, łatwiej kontynuować)
+- **Momentum (rozpęd)** - raz w ruchu, łatwiej kontynuować
 
 **Kluczowe:**
-> Nie myśl o całym zadaniu. Myśl o **następnym ridiculous small kroku** (2-10 sekund).
+> Nie myśl o całym zadaniu. Myśl o **następnym absurdalnie małym kroku (ridiculous small step)** - 2-10 sekund.
 
 ---
 
-### **2. Body Doubling**
+### **2. Body Doubling (Towarzyszenie w Pracy)**
 
 **Definicja:**
-> **Body doubling** = obecność drugiej osoby (lub AI), która "jest z Tobą" podczas pracy.
+> **Body doubling (towarzyszenie w pracy)** = obecność drugiej osoby (lub AI), która "jest z Tobą" podczas pracy.
 
 **Dlaczego działa:**
-- ADHD brain = **social accountability** (ktoś widzi, że pracujesz)
-- Dopamina z **social presence** (nie jesteś sam)
-- External structure (body double = "anchor" - trzyma Cię w focus)
+- Mózg z ADHD (ADHD brain) = **odpowiedzialność społeczna (social accountability)** - ktoś widzi, że pracujesz
+- Dopamina z **obecności społecznej (social presence)** - nie jesteś sam
+- Struktura zewnętrzna (External structure) - body double = "kotwica (anchor)" - trzyma Cię w fokusie
 
 **Tradycyjnie:**
 - Pracujesz w kawiarni (ludzie wokół = body doubling)
@@ -103,9 +103,9 @@
 - Zoom co-working (widzicie się, pracujecie równolegle)
 
 **Body Doubling AI:**
-- AI = **virtual body double** (zawsze dostępny)
-- "Jestem z Tobą. Co robisz teraz?" (check-in co 10-15 min)
-- Accountability bez **judgment** (AI nie ocenia, tylko wspiera)
+- AI = **wirtualny towarzysz (virtual body double)** - zawsze dostępny
+- "Jestem z Tobą. Co robisz teraz?" (meldunek / check-in co 10-15 min)
+- Odpowiedzialność (Accountability) bez **osądzania (judgment)** - AI nie ocenia, tylko wspiera
 
 **Kluczowe:**
 > Body doubling ≠ pomoc (AI nie robi za Ciebie). Body doubling = **obecność** (AI jest z Tobą).
@@ -119,37 +119,37 @@
 **Cel:** Zrozumieć, dlaczego "nie możesz zacząć" (neurobiologia, nie wina)
 
 **Kluczowe koncepty:**
-- Czym jest paraliż wykonawczy (executive dysfunction)
-- Neurobiologia (dopamina, prefrontal cortex, working memory)
+- Czym jest paraliż wykonawczy (executive dysfunction / dysfunkcja wykonawcza)
+- Neurobiologia (dopamina, kora przedczołowa / prefrontal cortex, pamięć robocza / working memory)
 - Paraliż vs prokrastynacja (to nie to samo)
-- Typowe triggery (overwhelm, perfekcjonizm, brak 4 C's)
+- Typowe wyzwalacze (triggers) - przytłoczenie (overwhelm), perfekcjonizm, brak 4 C's
 - Dlaczego "po prostu zacznij" NIE działa
 
 ---
 
-### **Lekcja 2: Micro-Start Technique - "ridiculous small" pierwszy krok**
+### **Lekcja 2: Technika Mikro-Startu - "absurdalnie małe (ridiculous small)" pierwszy krok**
 **Czas:** 10-12 min
-**Cel:** Opanować technikę micro-start (jak zacząć, gdy nie możesz)
+**Cel:** Opanować technikę mikro-startu (micro-start) - jak zacząć, gdy nie możesz
 
 **Kluczowe koncepty:**
-- Czym jest micro-start ("ridiculous small" - 2-10 sekund)
-- Dlaczego działa (momentum, prefrontal cortex activation)
-- Jak rozbić zadanie na micro-steps (atomowe kroki)
-- Przykłady micro-starts (różne typy zadań)
-- Jak używać AI do generowania micro-starts (Micro-Start Coach)
+- Czym jest mikro-start (micro-start) - "absurdalnie małe (ridiculous small)" - 2-10 sekund
+- Dlaczego działa (momentum/rozpęd, aktywacja kory przedczołowej / prefrontal cortex activation)
+- Jak rozbić zadanie na mikro-kroki (micro-steps) - atomowe kroki
+- Przykłady mikro-startów (micro-starts) - różne typy zadań
+- Jak używać AI do generowania mikro-startów (Micro-Start Coach)
 
 ---
 
-### **Lekcja 3: Body Doubling - AI jako companion**
+### **Lekcja 3: Body Doubling - AI jako towarzysz (companion)**
 **Czas:** 10-12 min
-**Cel:** Zrozumieć body doubling i jak używać AI jako body double
+**Cel:** Zrozumieć body doubling (towarzyszenie w pracy) i jak używać AI jako towarzysza (body double)
 
 **Kluczowe koncepty:**
 - Czym jest body doubling (obecność, nie pomoc)
-- Dlaczego działa dla ADHD (social accountability, dopamina)
-- Body doubling AI vs tradycyjne (zawsze dostępny)
-- Jak używać AI jako body double (check-ins, progress updates)
-- Co AI robi (validation, anchor, gentle nudges)
+- Dlaczego działa dla ADHD (odpowiedzialność społeczna / social accountability, dopamina)
+- Body Doubling AI vs tradycyjne (zawsze dostępny)
+- Jak używać AI jako towarzysza (body double) - meldunki (check-ins), aktualizacje postępu (progress updates)
+- Co AI robi (walidacja / validation, kotwica / anchor, delikatne podpowiedzi / gentle nudges)
 
 ---
 
@@ -158,9 +158,9 @@
 **Cel:** Praktyczne użycie narzędzia AI
 
 **Kluczowe koncepty:**
-- Jak używać Micro-Start Coach (Custom GPT vs Projekt DARMOWY)
-- Typowy workflow (stuck → micro-start → body doubling → done)
-- Przykłady użycia (real scenarios)
+- Jak używać Micro-Start Coach (Custom GPT vs Projekty Claude - DARMOWY)
+- Typowy przepływ pracy (workflow) - zablokowany (stuck) → mikro-start → body doubling → zrobione (done)
+- Przykłady użycia (rzeczywiste scenariusze / real scenarios)
 - FAQ (najczęstsze pytania)
 
 ---
@@ -169,18 +169,18 @@
 
 ### **Co to robi?**
 
-**1. Micro-Start Generator**
+**1. Generator Mikro-Startów (Micro-Start Generator)**
 - Wklejasz: "Nie mogę zacząć: Raport"
-- AI zwraca: "Micro-start: Otwórz plik Word (2 sekundy). Tylko to. Gotowy?"
+- AI zwraca: "Mikro-start (Micro-start): Otwórz plik Word (2 sekundy). Tylko to. Gotowy?"
 
-**2. Body Doubling (Virtual Companion)**
-- AI: "Jestem z Tobą. Zacznij micro-start. Odezwę się za 10 minut."
+**2. Body Doubling (Wirtualny Towarzysz / Virtual Companion)**
+- AI: "Jestem z Tobą. Zacznij mikro-start. Odezwę się za 10 minut."
 - (Po 10 min) AI: "Hej, co udało Ci się zrobić? Jak się czujesz?"
 
-**3. Progress Validation**
-- AI: "Otworzyłeś plik + napisałeś tytuł? To jest PROGRESS. Dobra robota. Co następne?"
+**3. Walidacja Postępu (Progress Validation)**
+- AI: "Otworzyłeś plik + napisałeś tytuł? To jest POSTĘP (PROGRESS). Dobra robota. Co następne?"
 
-**4. Gentle Nudges (Delikatne przypomnienia)**
+**4. Delikatne Podpowiedzi (Gentle Nudges / Przypomnienia)**
 - AI: "Jesteś nadal w pliku? Czy zgubiłeś się w czymś innym? (To OK, wracamy)"
 
 ---
@@ -189,11 +189,11 @@
 
 **Opcja 1: Custom GPT (gotowe, szybkie)**
 - Link od Przemka (w materiale kursu)
-- Klikasz → używasz (zero setup)
-- Wymaga ChatGPT Plus ($20/msc)
+- Klikasz → używasz (zero konfiguracji / setup)
+- Wymaga ChatGPT Plus ($20/miesiąc)
 
 **Opcja 2: Projekt ChatGPT/Claude (DARMOWY)**
-- Tworzysz swój projekt (5 min setup)
+- Tworzysz swój projekt (5 min konfiguracji / setup)
 - Wklejasz prompt od Przemka (instrukcje w materiale)
 - AI zapamięta Ciebie (pamięć)
 - **DARMOWE** (ChatGPT Free / Claude Free wystarczy)
@@ -204,7 +204,7 @@
 
 ### **Scenariusz: "Nie mogę zacząć raportu"**
 
-**1. Stuck (paraliż)**
+**1. Zablokowany (Stuck) - paraliż**
 - Siedzisz przed komputerem
 - "Muszę napisać raport"
 - **Nie możesz** otworzyć pliku (paraliż)
@@ -213,56 +213,56 @@
 - Wklejasz do AI: "Nie mogę zacząć: Raport"
 - AI zwraca:
   ```
-  **Micro-start (ridiculous small):**
+  **Mikro-start (Micro-start) - absurdalnie małe (ridiculous small):**
   Otwórz plik Word. Tylko to. 2 sekundy.
 
   Nie myśl o raporcie. Nie pisz jeszcze. Tylko OTWÓRZ plik.
   Gotowy? Zrób to teraz.
   ```
 
-**3. Wykonujesz micro-start**
+**3. Wykonujesz mikro-start (micro-start)**
 - Otwierasz plik (2 sekundy)
-- **Start!** (momentum)
+- **Start!** (momentum / rozpęd)
 
 **4. Body Doubling AI**
 - AI: "Świetnie! Plik otwarty. Jestem z Tobą. Co robisz teraz?"
 - Ty: "Piszę tytuł"
 - AI: "Super. Pisz. Odezwę się za 10 minut. Powodzenia!"
 
-**5. Check-in (po 10 min)**
+**5. Meldunek (Check-in) - po 10 min**
 - AI: "Hej! Co udało Ci się zrobić? Jak się czujesz?"
 - Ty: "Napisałem tytuł i 2 akapity"
-- AI: "To świetny progress! 2 akapity to więcej niż 0. Co następne?"
+- AI: "To świetny postęp (progress)! 2 akapity to więcej niż 0. Co następne?"
 
-**6. Kontynuacja (kolejne micro-starts)**
-- AI: "Następny micro-start: Napisz JEDEN akapit. Tylko jeden. Gotowy?"
+**6. Kontynuacja (kolejne mikro-starty / micro-starts)**
+- AI: "Następny mikro-start (micro-start): Napisz JEDEN akapit. Tylko jeden. Gotowy?"
 - Ty: "OK"
 - AI: "Jestem z Tobą. Zacznij. Odezwę się za 10 minut."
 
 **7. Dokończenie (lub przerwanie świadomie)**
-- Po kilku check-inach → raport dokończony
+- Po kilku meldunkach (check-ins) → raport dokończony
 - LUB: "Jestem zmęczony"
-- AI: "To OK. Zrobiłeś progress (tytuł + 4 akapity). To więcej niż 0. Zapisz i odpoczywaj."
+- AI: "To OK. Zrobiłeś postęp (progress) - tytuł + 4 akapity. To więcej niż 0. Zapisz i odpoczywaj."
 
 ---
 
 ## 🧩 Micro-Start + Body Doubling + inne moduły
 
-### **+ Moduł 1 (Clarity & Goals)**
-- Clarity: Chaos → priorytety (wiesz, **CO** robić)
-- Micro-Start: Wiesz CO → **JAK zacząć** (ridiculous small)
+### **+ Moduł 1 (Clarity & Goals / Jasność & Cele)**
+- Jasność (Clarity): Chaos → priorytety (wiesz, **CO** robić)
+- Mikro-Start (Micro-Start): Wiesz CO → **JAK zacząć** (absurdalnie małe / ridiculous small)
 
-### **+ Moduł 2 (4 C's of Motivation)**
-- 4 C's: Znajdź motywację (Captivate, Create, Compete, Complete)
-- Micro-Start: Jeśli brak 4 C's → użyj micro-start (obejście braku motywacji)
+### **+ Moduł 2 (4 C's of Motivation / 4 C Motywacji)**
+- 4 C's: Znajdź motywację (Zafascynowanie / Captivate, Tworzenie / Create, Rywalizacja / Compete, Zakończenie / Complete)
+- Mikro-Start (Micro-Start): Jeśli brak 4 C's → użyj mikro-startu (obejście braku motywacji)
 
 ### **+ Moduł 3 (Emocjonalne Wsparcie CBT/DBT)**
-- RSD: Lęk przed błędem (perfekcjonizm) → paraliż
-- Micro-Start: "Nie musisz idealnie. Tylko ridiculous small krok."
+- RSD (Odrzuceniowa Wrażliwość Dysforyczna): Lęk przed błędem (perfekcjonizm) → paraliż
+- Mikro-Start (Micro-Start): "Nie musisz idealnie. Tylko absurdalnie mały krok (ridiculous small step)."
 
-### **+ Moduł 4 (Planner AI - Lead Days + Sprints)**
-- Lead Days: Wiesz, **KIEDY** robić (priorytet)
-- Micro-Start: Wiesz KIEDY → **JAK zacząć** (pierwszy krok)
+### **+ Moduł 4 (Planner AI - System Odliczania Dni / Lead Days + Sprinty)**
+- System Odliczania Dni (Lead Days): Wiesz, **KIEDY** robić (priorytet)
+- Mikro-Start (Micro-Start): Wiesz KIEDY → **JAK zacząć** (pierwszy krok)
 - Body Doubling: AI towarzyszy przez cały Sprint (nie jesteś sam)
 
 ---
@@ -271,25 +271,25 @@
 
 ### **Neurobiologia:**
 
-**1. Micro-Start → Dopamina**
-- Ridiculous small krok = **łatwy win** (sukces)
+**1. Mikro-Start (Micro-Start) → Dopamina**
+- Absurdalnie mały krok (Ridiculous small step) = **łatwe zwycięstwo (easy win)** - sukces
 - Sukces → dopamina (nagroda)
-- Dopamina → motywacja do kolejnego kroku (momentum)
+- Dopamina → motywacja do kolejnego kroku (momentum / rozpęd)
 
-**2. Body Doubling → Social Accountability**
+**2. Body Doubling → Odpowiedzialność Społeczna (Social Accountability)**
 - AI = obecność (nie jesteś sam)
-- Social accountability → dopamina (ADHD brain ceni social bonding)
-- External structure (AI = anchor - trzyma w focus)
+- Odpowiedzialność społeczna (Social accountability) → dopamina (mózg z ADHD ceni więzi społeczne / social bonding)
+- Struktura zewnętrzna (External structure) - AI = kotwica (anchor) - trzyma w fokusie
 
-**3. Progress Validation → Zamknięcie pętli emocjonalnej**
-- AI waliduje progress ("otworzyłeś plik = progress!")
-- Zamknięcie pętli (Zeigarnik effect - nie trzymasz w głowie "nie zacząłem")
-- Zmniejszenie overwhelm ("zrobiłem coś, nie zero")
+**3. Walidacja Postępu (Progress Validation) → Zamknięcie pętli emocjonalnej**
+- AI waliduje postęp (progress) - "otworzyłeś plik = postęp!"
+- Zamknięcie pętli (Efekt Zeigarnik / Zeigarnik effect - nie trzymasz w głowie "nie zacząłem")
+- Zmniejszenie przytłoczenia (overwhelm) - "zrobiłem coś, nie zero"
 
-**4. Gentle Nudges → Powrót do focus**
-- ADHD brain = łatwo się rozpraszać
-- AI check-in = gentle reminder ("wracasz do raportu?")
-- Nie judgment (AI nie ocenia, tylko przypomina)
+**4. Delikatne Podpowiedzi (Gentle Nudges) → Powrót do fokusu**
+- Mózg z ADHD (ADHD brain) = łatwo się rozpraszać
+- Meldunek AI (AI check-in) = delikatne przypomnienie (gentle reminder) - "wracasz do raportu?"
+- Bez osądzania (No judgment) - AI nie ocenia, tylko przypomina
 
 ---
 
@@ -298,14 +298,14 @@
 ### **Ten moduł jest dla Ciebie, jeśli:**
 - ✅ Często **nie możesz zacząć** (paraliż wykonawczy)
 - ✅ Wiesz CO robić, ale **nie startujesz**
-- ✅ Overwhelm z dużych tasków (rozbicie na micro-steps pomoże)
-- ✅ Pracujesz sam (body doubling AI = virtual companion)
-- ✅ Potrzebujesz external structure (AI = anchor)
+- ✅ Przytłoczenie (Overwhelm) dużymi zadaniami (taski) - rozbicie na mikro-kroki (micro-steps) pomoże
+- ✅ Pracujesz sam (body doubling AI = wirtualny towarzysz / virtual companion)
+- ✅ Potrzebujesz struktury zewnętrznej (external structure) - AI = kotwica (anchor)
 
 ### **Ten moduł może nie być dla Ciebie, jeśli:**
-- ⚠️ Nie masz problemu ze startem (ADHD hyperfocus - zaczynasz łatwo)
+- ⚠️ Nie masz problemu ze startem (hiperfokus ADHD / ADHD hyperfocus - zaczynasz łatwo)
 - ⚠️ Wolisz pracować całkowicie sam (body doubling = obecność, może przeszkadzać)
-- ⚠️ Przytłacza Cię AI (wolisz analog/tradycyjne metody)
+- ⚠️ Przytłacza Cię AI (wolisz analogowe/tradycyjne metody)
 
 **Kluczowe:**
 > Testuj, dopasuj, modyfikuj. To **narzędzie** (nie must).
@@ -317,31 +317,31 @@
 ### **Kluczowe wnioski:**
 
 1. **Paraliż wykonawczy ≠ lenistwo**
-   - Neurologiczne (dysfunkcja prefrontal cortex)
-   - Niski poziom dopaminy → słaby "start signal"
+   - Neurologiczne (dysfunkcja kory przedczołowej / prefrontal cortex)
+   - Niski poziom dopaminy → słaby "sygnał startu (start signal)"
    - To nie Twoja wina (neurobiologia ADHD)
 
-2. **Micro-Start = "ridiculous small" pierwszy krok**
+2. **Mikro-Start (Micro-Start) = "absurdalnie małe (ridiculous small)" pierwszy krok**
    - Nie próbuj zacząć zadania (za duże)
-   - Zacznij micro-step (2-10 sekund)
-   - Momentum (raz w ruchu, łatwiej kontynuować)
+   - Zacznij mikro-krok (micro-step) - 2-10 sekund
+   - Momentum / rozpęd (raz w ruchu, łatwiej kontynuować)
 
 3. **Body Doubling = obecność (nie pomoc)**
-   - AI = virtual companion (zawsze dostępny)
-   - Social accountability → dopamina
-   - External structure (anchor - trzyma w focus)
+   - AI = wirtualny towarzysz (virtual companion) - zawsze dostępny
+   - Odpowiedzialność społeczna (Social accountability) → dopamina
+   - Struktura zewnętrzna (External structure) - kotwica (anchor) - trzyma w fokusie
 
 4. **Micro-Start Coach + Body Doubling AI:**
-   - Generuje micro-starts (ridiculous small)
-   - Towarzyszy podczas pracy (check-ins)
-   - Waliduje progress (nie judgment)
-   - Gentle nudges (powrót do focus)
+   - Generuje mikro-starty (micro-starts) - absurdalnie małe (ridiculous small)
+   - Towarzyszy podczas pracy (meldunki / check-ins)
+   - Waliduje postęp (progress) - bez osądzania (no judgment)
+   - Delikatne podpowiedzi (Gentle nudges) - powrót do fokusu
 
 5. **Integracja z innymi modułami:**
-   - Moduł 1: Clarity (wiesz CO) → Micro-Start (JAK zacząć)
-   - Moduł 2: 4 C's (motywacja) → Micro-Start (obejście braku motywacji)
-   - Moduł 3: RSD (lęk) → Micro-Start ("nie musisz idealnie")
-   - Moduł 4: Lead Days (priorytet) → Micro-Start + Body Doubling (wykonanie)
+   - Moduł 1: Jasność (Clarity) - wiesz CO → Mikro-Start (JAK zacząć)
+   - Moduł 2: 4 C's (motywacja) → Mikro-Start (obejście braku motywacji)
+   - Moduł 3: RSD (lęk) → Mikro-Start ("nie musisz idealnie")
+   - Moduł 4: System Odliczania Dni (Lead Days) - priorytet → Mikro-Start + Body Doubling (wykonanie)
 
 ---
 
@@ -356,8 +356,8 @@
 
 **Po module:**
 - Masz narzędzie do **pokonania paraliżu** (zawsze)
-- Wiesz, jak zacząć, gdy "nie możesz" (micro-start)
-- Masz AI companion (body doubling - nie jesteś sam)
+- Wiesz, jak zacząć, gdy "nie możesz" (mikro-start / micro-start)
+- Masz towarzysza AI (AI companion) - body doubling - nie jesteś sam
 
 ---
 
@@ -365,11 +365,11 @@
 
 **Narzędzie:**
 - Custom GPT: Micro-Start Coach + Body Doubling (link w materiale)
-- Projekt: Instrukcje tworzenia (ChatGPT/Claude - DARMOWY)
+- Projekt: Instrukcje tworzenia (ChatGPT/Projekty Claude - DARMOWY)
 
 **Źródła:**
-- Badania executive dysfunction w ADHD
-- Body doubling research (ADHD community)
+- Badania paraliżu wykonawczego (executive dysfunction) w ADHD
+- Badania body doubling (społeczność ADHD / ADHD community)
 - Praktyczne testy z użytkownikami ADHD
 
 ---

@@ -10,9 +10,9 @@
 
 Po tej lekcji będziesz wiedział/a:
 - **Czym jest** paraliż wykonawczy (executive dysfunction)
-- **Dlaczego** ADHD brain ma problem ze startem (neurobiologia)
+- **Dlaczego** mózg z ADHD ma problem ze startem (neurobiologia)
 - **Jak rozpoznać** paraliż vs prokrastynacja (to nie to samo)
-- **Jakie są** typowe triggery paraliżu
+- **Jakie są** typowe wyzwalacze (triggers) paraliżu
 - **Dlaczego** "po prostu zacznij" NIE działa (i co działa zamiast)
 
 ---
@@ -32,13 +32,13 @@ Po tej lekcji będziesz wiedział/a:
 
 ### **Jak się czuje?**
 
-**Typowe opisy (ADHD community):**
+**Typowe opisy (społeczność ADHD / ADHD community):**
 
 **Fizyczne:**
-- "Jakbym siedział w żywicy" (stuck, nie mogę się ruszyć)
-- "Ciężar na klatce piersiowej" (przytłoczenie)
-- "Mózg w chmurze" (fog, nie mogę myśleć jasno)
-- "Paralysis" (dosłownie sparaliżowany)
+- "Jakbym siedział w żywicy" (zablokowany / stuck, nie mogę się ruszyć)
+- "Ciężar na klatce piersiowej" (przytłoczenie / overwhelm)
+- "Mózg w chmurze" (mgła / fog, nie mogę myśleć jasno)
+- "Paraliż" (paralysis - dosłownie sparaliżowany)
 
 **Mentalne:**
 - "Wiem CO robić, ale NIE MOGĘ kliknąć 'otwórz plik'"
@@ -80,12 +80,12 @@ Po tej lekcji będziesz wiedział/a:
 ### **1. Prefrontal Cortex (Executive Function) - dysfunkcja**
 
 **Neurobiologia:**
-- **Prefrontal cortex** (PFC) = "CEO mózgu" (planowanie, inicjacja, kontrola)
+- **Kora przedczołowa (Prefrontal cortex / PFC)** = "CEO mózgu" (planowanie, inicjacja, kontrola)
 - W ADHD: **dysfunkcja PFC** (słabsze połączenia, niższa aktywność)
-- PFC odpowiada za **"start signal"** (inicjacja działania)
+- PFC odpowiada za **"sygnał startu" (start signal)** (inicjacja działania)
 
-**W ADHD brain:**
-- PFC = słaby "start signal" → **trudność z inicjacją** (paraliż)
+**W mózgu z ADHD (ADHD brain):**
+- PFC = słaby "sygnał startu" → **trudność z inicjacją** (paraliż)
 - Neurotypowi: "Zrób raport" → PFC: "OK, zaczynam" (automatycznie)
 - ADHD: "Zrób raport" → PFC: "...?" (brak sygnału startu)
 
@@ -94,59 +94,59 @@ Po tej lekcji będziesz wiedział/a:
 
 ---
 
-### **2. Dopamina - niski poziom (brak "fuel" do startu)**
+### **2. Dopamina - niski poziom (brak "paliwa" do startu)**
 
 **Neurobiologia:**
 - **Dopamina** = neurotransmiter motywacji i nagrody
-- ADHD brain = **niski baseline dopaminy** (szczególnie w PFC + striatum)
-- Dopamina = "fuel" dla inicjacji działania
+- Mózg z ADHD = **niski poziom bazowy dopaminy (low baseline dopamina)** (szczególnie w PFC + prążkowiu / striatum)
+- Dopamina = "paliwo" (fuel) dla inicjacji działania
 
-**W ADHD brain:**
+**W mózgu z ADHD:**
 - Niski poziom dopaminy → **brak energii** do startu
-- Zadanie bez nagrody/urgency/interest → **zero dopaminy** → zero start
+- Zadanie bez nagrody/pilności/zainteresowania → **zero dopaminy** → zero start
 
 **Dlaczego czasami MOŻESZ zacząć?**
-- **Urgency** (deadline za godzinę) → adrenaline → dopamina → START (last-minute rush)
-- **Interest** (fascynujący projekt) → dopamina → START (hyperfocus)
-- **Novelty** (nowe zadanie) → dopamina → START (a potem fade)
+- **Pilność (Urgency)** (deadline za godzinę) → adrenalina → dopamina → START (pośpiech last-minute / last-minute rush)
+- **Zainteresowanie (Interest)** (fascynujący projekt) → dopamina → START (hiperfokus / hyperfocus)
+- **Nowość (Novelty)** (nowe zadanie) → dopamina → START (a potem zanika / fade)
 
 **Ale:**
 - Rutynowe zadanie (naczynia, e-mail, raport) = **zero dopaminy** → paraliż
 
 ---
 
-### **3. Working Memory - przeciążenie (task "za duży")**
+### **3. Pamięć robocza (Working Memory) - przeciążenie (zadanie "za duże")**
 
 **Neurobiologia:**
-- **Working memory** = pamięć robocza (ile kroków możesz trzymać w głowie)
-- Neurotypowi: ~7 items
-- ADHD: **~3-4 items** (mniejsza pojemność)
+- **Pamięć robocza (Working memory)** = ile kroków możesz trzymać w głowie
+- Neurotypowi: ~7 elementów (items)
+- ADHD: **~3-4 elementy** (mniejsza pojemność)
 
 **Problem:**
-- "Napisz raport" = duży task
-- Working memory próbuje rozłożyć na kroki: "otwórz plik + zbierz materiały + napisz tytuł + napisz wstęp + ..." (10+ kroków)
-- **Przeciążenie** (za dużo kroków) → overwhelm → **paraliż**
+- "Napisz raport" = duże zadanie (task)
+- Pamięć robocza próbuje rozłożyć na kroki: "otwórz plik + zbierz materiały + napisz tytuł + napisz wstęp + ..." (10+ kroków)
+- **Przeciążenie** (za dużo kroków) → przytłoczenie (overwhelm) → **paraliż**
 
 **Analogia:**
 > Próbujesz trzymać 10 piłek w 2 rękach. Nie możesz. Upuszczasz wszystkie. Paraliż = "upuściłem piłki, nie wiem, od czego zacząć".
 
 ---
 
-### **4. Amygdala (Lęk) + Perfekcjonizm**
+### **4. Ciało migdałowate (Amygdala) - Lęk + Perfekcjonizm**
 
 **Neurobiologia:**
-- **Amygdala** = centrum lęku (fear center)
-- W ADHD: **nadaktywna amygdala** (silniejsza reakcja na stres/lęk)
+- **Ciało migdałowate (Amygdala)** = centrum lęku (fear center)
+- W ADHD: **nadaktywne ciało migdałowate** (silniejsza reakcja na stres/lęk)
 - Perfekcjonizm = lęk przed błędem ("muszę idealnie")
 
 **Problem:**
-- "Muszę napisać raport" → amygdala: "Co jeśli zrobię źle?" → **lęk**
-- Lęk + RSD (rejection sensitive dysphoria) = **intensywny strach przed oceną**
+- "Muszę napisać raport" → ciało migdałowate: "Co jeśli zrobię źle?" → **lęk**
+- Lęk + RSD (dysphoria odrzucenia / rejection sensitive dysphoria) = **intensywny strach przed oceną**
 - **Paraliż jako ochrona** ("jeśli nie zacznę, nie zrobię źle, nie będę odrzucony")
 
 **Błędne koło:**
 ```
-Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline panic → Lęk rośnie → Większy paraliż
+Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Panika deadline (deadline panic) → Lęk rośnie → Większy paraliż
 ```
 
 ---
@@ -185,12 +185,12 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 
 ---
 
-## 🎯 Typowe triggery paraliżu wykonawczego
+## 🎯 Typowe wyzwalacze (triggers) paraliżu wykonawczego
 
-### **1. Task "za duży" (Overwhelm)**
+### **1. Zadanie "za duże" - Przytłoczenie (Overwhelm)**
 
-**Trigger:**
-- Zadanie ma **wiele kroków** (working memory przeciążenie)
+**Wyzwalacz (Trigger):**
+- Zadanie ma **wiele kroków** (przeciążenie pamięci roboczej / working memory)
 - Nie wiesz, **od czego zacząć** (brak jasnego pierwszego kroku)
 
 **Przykłady:**
@@ -199,19 +199,19 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 - "Zmień pracę" (za duże)
 
 **Rezultat:**
-- Overwhelm → paraliż
+- Przytłoczenie (Overwhelm) → paraliż
 
 ---
 
 ### **2. Brak 4 C's (Zero dopaminy)**
 
-**Trigger:**
-- Zadanie **nie jest** Captivating, Creative, Competitive, ani Complete (deadline daleko)
-- Zero dopaminy → zero start signal
+**Wyzwalacz (Trigger):**
+- Zadanie **nie jest** Zafascynowujące (Captivating), Twórcze (Creative), Rywalizacyjne (Competitive), ani Zakończone pilnym deadline (Complete)
+- Zero dopaminy → zero sygnału startu (start signal)
 
 **Przykłady:**
 - Naczynia (rutynowe, nie interesujące, brak deadline)
-- E-mail (nudny, brak urgency)
+- E-mail (nudny, brak pilności / urgency)
 - Faktury (admin, zero kreatywności)
 
 **Rezultat:**
@@ -221,9 +221,9 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 
 ### **3. Perfekcjonizm (Lęk przed błędem)**
 
-**Trigger:**
+**Wyzwalacz (Trigger):**
 - "Muszę zrobić idealnie" (lęk przed oceną)
-- RSD (rejection sensitive dysphoria) - "jeśli zrobię źle, będę odrzucony"
+- RSD (dysphoria odrzucenia / rejection sensitive dysphoria) - "jeśli zrobię źle, będę odrzucony"
 
 **Przykłady:**
 - Prezentacja (musi być perfekcyjna)
@@ -237,13 +237,13 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 
 ### **4. Poprzednie niepowodzenia (Trauma)**
 
-**Trigger:**
-- Podobny task wcześniej = stres/porażka/RSD
-- Mózg **kojarzy task** z poprzednim bólem (trauma)
+**Wyzwalacz (Trigger):**
+- Podobne zadanie wcześniej = stres/porażka/RSD
+- Mózg **kojarzy zadanie** z poprzednim bólem (trauma)
 
 **Przykłady:**
 - Raport (ostatnio = krytyka od szefa)
-- E-mail (ostatnio = ghosting przyjaciela)
+- E-mail (ostatnio = zignorowanie przez przyjaciela / ghosting)
 - Nauka (ostatnio = złe oceny)
 
 **Rezultat:**
@@ -251,19 +251,19 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 
 ---
 
-### **5. Low energy (Zmęczenie, burnout)**
+### **5. Niska energia (Low energy) - Zmęczenie, wypalenie (burnout)**
 
-**Trigger:**
+**Wyzwalacz (Trigger):**
 - Niska energia fizyczna/mentalna
-- ADHD brain potrzebuje **więcej energii** do startu (niż neurotypowi)
+- Mózg z ADHD potrzebuje **więcej energii** do startu (niż neurotypowi)
 
 **Przykłady:**
-- Koniec dnia (low energy)
-- Po intensywnym Sprint (mental fatigue)
-- Brak snu (depleted)
+- Koniec dnia (niska energia / low energy)
+- Po intensywnym Sprincie (zmęczenie mentalne / mental fatigue)
+- Brak snu (wyczerpany / depleted)
 
 **Rezultat:**
-- Zero energii → zero "fuel" do startu → paraliż
+- Zero energii → zero "paliwa" (fuel) do startu → paraliż
 
 ---
 
@@ -281,80 +281,80 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 ### **Dlaczego to NIE działa dla ADHD?**
 
 **1. "Po prostu zacznij" = ignoruje neurobiologię**
-- Paraliż = **neurologiczna dysfunkcja** (PFC, dopamina, working memory)
-- Nie możesz "po prostu zacząć", bo **mózg nie daje start signal**
+- Paraliż = **neurologiczna dysfunkcja** (PFC, dopamina, pamięć robocza / working memory)
+- Nie możesz "po prostu zacząć", bo **mózg nie daje sygnału startu (start signal)**
 - To jak mówić osobie z nogą w gipsie: "Po prostu biegnij!"
 
 **2. Zwiększa wstyd + RSD**
 - "Po prostu zacznij" → słyszysz: "Inni mogą, ty jesteś leniwy/słaby"
-- RSD (rejection sensitive dysphoria) → **wstyd**, poczucie winy
+- RSD (dysphoria odrzucenia / rejection sensitive dysphoria) → **wstyd**, poczucie winy
 - Wstyd → **większy paraliż** (błędne koło)
 
-**3. Nie adresuje przyczyny (trigger)**
-- Nie rozwiązuje: overwhelm (task za duży), brak dopaminy, lęk, przeciążenie
-- Tylko presja: "musisz" → **opór** (ADHD brain nie lubi "must")
+**3. Nie adresuje przyczyny (wyzwalacz / trigger)**
+- Nie rozwiązuje: przytłoczenie (overwhelm - zadanie za duże), brak dopaminy, lęk, przeciążenie
+- Tylko presja: "musisz" → **opór** (mózg z ADHD nie lubi "musisz" / "must")
 
 ---
 
 ### **Co działa ZAMIAST?**
 
-**1. Micro-start ("ridiculous small")**
+**1. Mikro-start (Micro-start) - "absurdalnie małe" (ridiculous small)**
 - Nie "po prostu zacznij zadanie" (za duże)
-- "Zacznij micro-step" (2-10 sekund): "Otwórz plik. Tylko to."
-- Zmniejsza overwhelm (working memory nie przeciążone)
+- "Zacznij mikro-krok (micro-step)" (2-10 sekund): "Otwórz plik. Tylko to."
+- Zmniejsza przytłoczenie (overwhelm - pamięć robocza nie przeciążona)
 
-**2. Body doubling (obecność)**
+**2. Body doubling (towarzyszenie w pracy) - obecność**
 - Nie "zrób sam" (izolacja = trudniej)
-- "Jestem z Tobą" (AI / osoba) → social accountability → dopamina
-- External structure (anchor - trzyma w focus)
+- "Jestem z Tobą" (AI / osoba) → odpowiedzialność społeczna (social accountability) → dopamina
+- Zewnętrzna struktura (External structure) - kotwica (anchor) - trzyma w fokusie
 
-**3. Validation (nie judgment)**
-- Nie "to nie jest trudne" (invalidation)
-- "To jest trudne dla ADHD brain. To neurologiczne, nie Twoja wina." (validation)
+**3. Walidacja (Validation) - nie osądzanie (judgment)**
+- Nie "to nie jest trudne" (unieważnienie / invalidation)
+- "To jest trudne dla mózgu z ADHD. To neurologiczne, nie Twoja wina." (walidacja / validation)
 - Zmniejsza wstyd → łatwiej zacząć
 
-**4. 4 C's (dopamina boost)**
+**4. 4 C's (zastrzyk dopaminy / dopamina boost)**
 - Jeśli brak dopaminy (rutynowe zadanie) → znajdź 4 C's:
-  - **Captivate:** Jak uczynić interesującym?
-  - **Create:** Jak dodać nowość?
-  - **Compete:** Jak uczynić challenge?
-  - **Complete:** Deadline (urgency)?
+  - **Zafascynowanie (Captivate):** Jak uczynić interesującym?
+  - **Tworzenie (Create):** Jak dodać nowość?
+  - **Rywalizacja (Compete):** Jak uczynić wyzwaniem (challenge)?
+  - **Zakończenie (Complete):** Deadline (pilność / urgency)?
 
 ---
 
 ## 🔄 Paraliż + inne aspekty ADHD
 
-### **Paraliż + Working Memory Overload**
+### **Paraliż + Przeciążenie Pamięci Roboczej (Working Memory Overload)**
 
 **Problem:**
-- Task za duży → working memory przeciążone → paraliż
+- Zadanie za duże → pamięć robocza przeciążona → paraliż
 
 **Rozwiązanie:**
-- Rozbij na micro-steps (atomowe, ridiculous small)
-- External list (nie trzymaj kroków w głowie)
+- Rozbij na mikro-kroki (micro-steps) - atomowe, absurdalnie małe (ridiculous small)
+- Zewnętrzna lista (External list) - nie trzymaj kroków w głowie
 
 ---
 
-### **Paraliż + RSD (Rejection Sensitive Dysphoria)**
+### **Paraliż + RSD (Dysphoria Odrzucenia / Rejection Sensitive Dysphoria)**
 
 **Problem:**
 - Lęk przed błędem (perfekcjonizm) → RSD → paraliż
 
 **Rozwiązanie:**
-- Radical acceptance (DBT): "Mogę zrobić nieperfekt. To OK."
-- Micro-start: "Nie musisz idealnie. Tylko JEDEN ridiculous small krok."
+- Radykalna akceptacja (Radical acceptance - DBT): "Mogę zrobić nieperfekt. To OK."
+- Mikro-start (Micro-start): "Nie musisz idealnie. Tylko JEDEN absurdalnie mały (ridiculous small) krok."
 
 ---
 
-### **Paraliż + Time Blindness**
+### **Paraliż + Ślepota Czasowa (Time Blindness)**
 
 **Problem:**
-- Deadline daleko ("mam czas") → brak urgency → zero dopaminy → paraliż
+- Deadline daleko ("mam czas") → brak pilności (urgency) → zero dopaminy → paraliż
 - Potem: deadline blisko ("O cholera!") → panika
 
 **Rozwiązanie:**
-- Lead Days (Moduł 4): Deadline → urgency levels (RED/YELLOW/GREEN)
-- Micro-commitments: Rozbij na małe kroki z własnymi "mini-deadlines"
+- System Odliczania Dni - SOD (Lead Days - Moduł 4): Deadline → poziomy pilności (urgency levels: RED/YELLOW/GREEN)
+- Mikro-zobowiązania (Micro-commitments): Rozbij na małe kroki z własnymi "mini-deadlines"
 
 ---
 
@@ -363,32 +363,32 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 ### **Kluczowe wnioski:**
 
 1. **Paraliż wykonawczy = neurologiczna dysfunkcja (nie lenistwo)**
-   - Dysfunkcja prefrontal cortex (słaby "start signal")
-   - Niski poziom dopaminy (brak "fuel")
-   - Working memory przeciążenie (task za duży)
+   - Dysfunkcja kory przedczołowej (prefrontal cortex) - słaby "sygnał startu" (start signal)
+   - Niski poziom dopaminy (brak "paliwa" / fuel)
+   - Przeciążenie pamięci roboczej (working memory) - zadanie za duże
    - Lęk + RSD (perfekcjonizm)
 
 2. **Paraliż ≠ Prokrastynacja**
    - Prokrastynacja = "nie chcę" (robisz coś innego)
-   - Paraliż = "nie mogę" (nie robisz NIC, stuck)
+   - Paraliż = "nie mogę" (nie robisz NIC, zablokowany / stuck)
 
-3. **Typowe triggery:**
-   - Task za duży (overwhelm)
+3. **Typowe wyzwalacze (triggers):**
+   - Zadanie za duże (przytłoczenie / overwhelm)
    - Brak 4 C's (zero dopaminy)
    - Perfekcjonizm (lęk przed błędem)
    - Poprzednie niepowodzenia (trauma)
-   - Low energy (zmęczenie)
+   - Niska energia (Low energy - zmęczenie)
 
 4. **"Po prostu zacznij" NIE działa:**
-   - Ignoruje neurobiologię (ADHD brain nie może)
+   - Ignoruje neurobiologię (mózg z ADHD nie może)
    - Zwiększa wstyd (RSD)
-   - Nie adresuje przyczyny (trigger)
+   - Nie adresuje przyczyny (wyzwalacz / trigger)
 
 5. **Co działa:**
-   - Micro-start (ridiculous small - zmniejsza overwhelm)
-   - Body doubling (obecność - dopamina + structure)
-   - Validation (nie judgment - zmniejsza wstyd)
-   - 4 C's (dopamina boost - jeśli rutynowe)
+   - Mikro-start (Micro-start) - absurdalnie małe (ridiculous small) - zmniejsza przytłoczenie (overwhelm)
+   - Body doubling (towarzyszenie w pracy - obecność) - dopamina + struktura (structure)
+   - Walidacja (Validation - nie osądzanie / judgment) - zmniejsza wstyd
+   - 4 C's (zastrzyk dopaminy / dopamina boost - jeśli rutynowe)
 
 ---
 
@@ -397,28 +397,28 @@ Zadanie → Lęk (perfekcjonizm) → Paraliż → Nie zaczynam → Deadline pani
 **Następnym razem, gdy czujesz paraliż:**
 
 1. **Rozpoznaj:** "To jest paraliż wykonawczy" (nazwij - nie lenistwo)
-2. **Sprawdź trigger:** Co blokuje start? (overwhelm? brak 4 C's? lęk? low energy?)
-3. **Validation:** "To neurologiczne. Nie moja wina. ADHD brain tak działa."
+2. **Sprawdź wyzwalacz (trigger):** Co blokuje start? (przytłoczenie/overwhelm? brak 4 C's? lęk? niska energia/low energy?)
+3. **Walidacja (Validation):** "To neurologiczne. Nie moja wina. Mózg z ADHD tak działa."
 4. **Nie próbuj:** "Po prostu zacznij" (to nie działa)
-5. **Użyj narzędzia:** Micro-start (następna lekcja) + Body Doubling (Lekcja 3)
+5. **Użyj narzędzia:** Mikro-start (Micro-start - następna lekcja) + Body Doubling (towarzyszenie w pracy - Lekcja 3)
 
-**Zapisz:** Kiedy czułeś paraliż? Co było triggerem? Jak długo trwał?
+**Zapisz:** Kiedy czułeś paraliż? Co było wyzwalaczem (trigger)? Jak długo trwał?
 
 ---
 
 ## ➡️ Co dalej?
 
-**Lekcja 2: Micro-Start Technique - "ridiculous small" pierwszy krok**
-- Czym jest micro-start
-- Dlaczego działa (momentum, prefrontal cortex activation)
-- Jak rozbić zadanie na micro-steps
-- Przykłady micro-starts
-- Jak używać AI do generowania micro-starts
+**Lekcja 2: Technika Mikro-Startu (Micro-Start Technique) - "absurdalnie małe" (ridiculous small) pierwszy krok**
+- Czym jest mikro-start (micro-start)
+- Dlaczego działa (rozpęd / momentum, aktywacja kory przedczołowej / prefrontal cortex activation)
+- Jak rozbić zadanie na mikro-kroki (micro-steps)
+- Przykłady mikro-startów (micro-starts)
+- Jak używać AI do generowania mikro-startów
 
 ---
 
 **Autor:** Przemek
 **Moduł:** 5 - Micro-Start Coach + Body Doubling AI
-**Źródła:** Badania executive dysfunction w ADHD, neurobiologia ADHD (PFC, dopamina, working memory)
+**Źródła:** Badania paraliżu wykonawczego (executive dysfunction) w ADHD, neurobiologia ADHD (PFC, dopamina, pamięć robocza / working memory)
 **Wersja:** V0
 **Data:** 2025-01-XX

@@ -10,9 +10,9 @@
 
 Po tej lekcji będziesz wiedział/a:
 - **Jak używać** Micro-Start Coach + Body Doubling AI (Custom GPT vs Projekt)
-- **Jakie funkcje** ma narzędzie (micro-start generator, body doubling, progress tracking)
-- **Typowy workflow** (paraliż → micro-start → body doubling → done)
-- **Przykłady użycia** (real scenarios)
+- **Jakie funkcje** ma narzędzie - generator mikro-startów (micro-start generator), body doubling (towarzyszenie), śledzenie postępu (progress tracking)
+- **Typowy przepływ pracy (workflow)** - paraliż → mikro-start → body doubling → ukończone
+- **Przykłady użycia** - rzeczywiste scenariusze (real scenarios)
 - **FAQ** (najczęstsze pytania)
 
 ---
@@ -22,11 +22,11 @@ Po tej lekcji będziesz wiedział/a:
 ### **Definicja:**
 
 > Narzędzie AI, które pomaga pokonać paraliż wykonawczy przez:
-> 1. **Micro-Start Generator** - generuje ridiculous small pierwsze kroki
-> 2. **Body Doubling** - towarzyszy podczas pracy (check-ins, validation, gentle nudges)
-> 3. **Progress Tracking** - waliduje każdy progress (zamyka pętle emocjonalne)
+> 1. **Generator Mikro-Startów (Micro-Start Generator)** - generuje absurdalnie małe (ridiculous small) pierwsze kroki
+> 2. **Body Doubling (towarzyszenie w pracy)** - towarzyszy podczas pracy (meldunki / check-ins, walidacja / validation, delikatne podpowiedzi / gentle nudges)
+> 3. **Śledzenie Postępu (Progress Tracking)** - waliduje każdy postęp (progress) - zamyka pętle emocjonalne
 
-**Czas:** 30 sekund setup → natychmiastowa pomoc (vs godziny paraliżu)
+**Czas:** 30 sekund konfiguracji (setup) → natychmiastowa pomoc (vs godziny paraliżu)
 
 ---
 
@@ -41,16 +41,16 @@ Po tej lekcji będziesz wiedział/a:
 **Zalety:**
 - ✅ **Szybkie** (zero konfiguracji)
 - ✅ **Gotowe** (wszystkie funkcje działają od razu)
-- ✅ **Updates** (Przemek aktualizuje prompt, Ty masz zawsze najnowszy)
+- ✅ **Aktualizacje (Updates)** - Przemek aktualizuje prompt, Ty masz zawsze najnowszy
 
 **Wady:**
 - ⚠️ **Brak pamięci** (nie zapamięta Twoich wzorców - musisz opisywać co raz)
-- ⚠️ **Wymaga ChatGPT Plus** ($20/msc)
+- ⚠️ **Wymaga ChatGPT Plus** ($20/miesiąc)
 
 **Kiedy wybrać:**
 - Jeśli masz ChatGPT Plus
 - Jeśli chcesz szybki start (bez konfiguracji)
-- Jeśli nie potrzebujesz pamięci (ok z opisywaniem sytuacji co raz)
+- Jeśli nie potrzebujesz pamięci (OK z opisywaniem sytuacji co raz)
 
 ---
 
@@ -63,13 +63,13 @@ Po tej lekcji będziesz wiedział/a:
 
 **Zalety:**
 - ✅ **DARMOWE** (ChatGPT Free lub Claude Free wystarczy)
-- ✅ **Pamięć** (AI pamięta Ciebie - "ostatnio paraliż przy raportach", "preferujesz check-ins co 10 min")
+- ✅ **Pamięć** (AI pamięta Ciebie - "ostatnio paraliż przy raportach", "preferujesz meldunki / check-ins co 10 min")
 - ✅ **Personalizacja** (możesz modyfikować prompt dla siebie)
 - ✅ **Historia** (AI widzi poprzednie sesje, uczy się Ciebie)
 
 **Wady:**
-- ⚠️ **Setup** (musisz utworzyć projekt + wkleić prompt - 5 minut)
-- ⚠️ **Updates** (musisz ręcznie update'ować prompt, jeśli Przemek zmieni)
+- ⚠️ **Konfiguracja (Setup)** - musisz utworzyć projekt + wkleić prompt - 5 minut
+- ⚠️ **Aktualizacje (Updates)** - musisz ręcznie aktualizować prompt, jeśli Przemek zmieni
 
 **Kiedy wybrać:**
 - Jeśli nie masz ChatGPT Plus (Free plan)
@@ -82,21 +82,21 @@ Po tej lekcji będziesz wiedział/a:
 
 | **Aspekt** | **Custom GPT** | **Projekt (ChatGPT/Claude)** |
 |------------|----------------|------------------------------|
-| **Koszt** | ChatGPT Plus ($20/msc) | **DARMOWE** |
-| **Setup** | Zero (klik link) | 5 minut (utwórz + wklej prompt) |
+| **Koszt** | ChatGPT Plus ($20/miesiąc) | **DARMOWE** |
+| **Konfiguracja (Setup)** | Zero (klik link) | 5 minut (utwórz + wklej prompt) |
 | **Pamięć** | ❌ Nie (opisujesz co raz) | ✅ Tak (AI zapamięta Ciebie) |
-| **Updates** | ✅ Automatyczne (od Przemka) | ⚠️ Ręczne (update prompt sam) |
+| **Aktualizacje (Updates)** | ✅ Automatyczne (od Przemka) | ⚠️ Ręczne (aktualizuj prompt sam) |
 | **Personalizacja** | ❌ Nie (gotowy prompt) | ✅ Tak (możesz modyfikować) |
 
 **Rekomendacja:**
-- Masz Plus? → **Custom GPT** (szybkie, zero setup)
+- Masz Plus? → **Custom GPT** (szybkie, zero konfiguracji / setup)
 - Nie masz Plus? → **Projekt** (darmowy, z pamięcią)
 
 ---
 
 ## 📋 Funkcje Micro-Start Coach
 
-### **1. Micro-Start Generator**
+### **1. Generator Mikro-Startów (Micro-Start Generator)**
 
 **Wklejasz:**
 ```
@@ -107,7 +107,7 @@ Nie mogę zacząć: Napisać raport
 ```
 **Zrozumiałe. Paraliż wykonawczy (executive dysfunction).**
 
-**Micro-start (ridiculous small):**
+**Mikro-start (Micro-start) - absurdalnie małe (ridiculous small):**
 
 **KROK 1:** Otwórz plik raportu. Tylko to. Nie pisz jeszcze. Tylko OTWÓRZ.
 **Czas:** 2 sekundy
@@ -119,13 +119,13 @@ Nie mogę zacząć: Napisać raport
 ```
 
 **Co robi:**
-- Generuje ridiculous small pierwszy krok (2-10 sekund)
+- Generuje absurdalnie mały (ridiculous small) pierwszy krok (2-10 sekund)
 - Mówi dokładnie CO robić (konkretne, nie abstrakcyjne)
-- Gentle push ("Gotowy? Zrób TERAZ")
+- Delikatne popchnięcie (Gentle push): "Gotowy? Zrób TERAZ"
 
 ---
 
-### **2. Body Doubling Session**
+### **2. Sesja Body Doubling (Body Doubling Session)**
 
 **Wklejasz:**
 ```
@@ -136,41 +136,41 @@ Zrobione. Plik otwarty. Potrzebuję body doubling (sesja 1 godzina).
 ```
 **Świetnie! Plik otwarty = start!** 🎉
 
-**Rozpoczynam sesję body doubling:**
+**Rozpoczynam sesję body doubling (towarzyszenia w pracy):**
 - Zadanie: Raport
 - Czas: 1 godzina
-- Check-ins: Co 10 minut
+- Meldunki (Check-ins): Co 10 minut
 
-**Co teraz robisz?** (Opisz micro-start - np. "Piszę tytuł")
+**Co teraz robisz?** (Opisz mikro-start - np. "Piszę tytuł")
 
 Jestem z Tobą. Odezwę się za 10 minut. Powodzenia! 💪
 ```
 
 ---
 
-**(Po 10 minutach - check-in)**
+**(Po 10 minutach - meldunek / check-in)**
 
 **AI:**
 ```
-**Check-in! 🔔**
+**Meldunek / Check-in! 🔔**
 
 Hej! Minęło 10 minut. **Co udało Ci się zrobić?**
 
 - Czy kontynuujesz raport?
-- Jak się czujesz? (focus? rozproszony? stuck?)
+- Jak się czujesz? (fokus? rozproszony? zablokowany / stuck?)
 
-Opisz progress. Jestem ciekawy! 😊
+Opisz postęp (progress). Jestem ciekawy! 😊
 ```
 
 **Co robi:**
-- Check-ins co X minut (Ty decydujesz - 10, 15, 20 min)
-- Pyta o progress ("Co zrobiłeś?")
-- Pyta o stan ("Jak się czujesz?")
-- Towarzyszy (obecność - accountability)
+- Meldunki (Check-ins) co X minut (Ty decydujesz - 10, 15, 20 min)
+- Pyta o postęp (progress): "Co zrobiłeś?"
+- Pyta o stan: "Jak się czujesz?"
+- Towarzyszy (obecność - odpowiedzialność / accountability)
 
 ---
 
-### **3. Progress Validation**
+### **3. Walidacja Postępu (Progress Validation)**
 
 **Ty:**
 ```
@@ -179,7 +179,7 @@ Napisałem tytuł + 2 akapity.
 
 **AI:**
 ```
-**Świetny progress!** 🎉
+**Świetny postęp (progress)!** 🎉
 
 - Plik otwarty ✅
 - Tytuł ✅
@@ -187,20 +187,20 @@ Napisałem tytuł + 2 akapity.
 
 To znacznie więcej niż 0! Dobra robota.
 
-**Co następne?** Jaki kolejny micro-step?
+**Co następne?** Jaki kolejny mikro-krok (micro-step)?
 
 Odezwę się za 10 minut. Kontynuuj! 💪
 ```
 
 **Co robi:**
-- Waliduje KAŻDY progress (nawet ridiculous small)
-- Lista checklisty (pokazuje, co zrobiłeś)
-- Pozytywne reinforcement ("Dobra robota")
-- Zamyka pętlę emocjonalną (Zeigarnik effect - "zrobiłem coś")
+- Waliduje KAŻDY postęp (progress) - nawet absurdalnie mały (ridiculous small)
+- Lista kontrolna (checklista) - pokazuje, co zrobiłeś
+- Pozytywne wzmocnienie (reinforcement): "Dobra robota"
+- Zamyka pętlę emocjonalną - efekt Zeigarnika (Zeigarnik effect) - "zrobiłem coś"
 
 ---
 
-### **4. Gentle Nudges (Gdy rozproszenie)**
+### **4. Delikatne Podpowiedzi (Gentle Nudges) - Gdy rozproszenie**
 
 **Ty:**
 ```
@@ -209,61 +209,61 @@ Hmm, zgubiłem się. Scrollowałem social media.
 
 **AI:**
 ```
-**To OK!** 😊 (Bez judgment - zdarza się.)
+**To OK!** 😊 (Bez osądzania / judgment - zdarza się.)
 
-ADHD brain łatwo się rozprasza. To normalne.
+Mózg z ADHD łatwo się rozprasza. To normalne.
 
-**Pytanie:** Czy wracasz do raportu? Jaki micro-start?
+**Pytanie:** Czy wracasz do raportu? Jaki mikro-start (micro-start)?
 
 **Sugestia:**
 - Przeczytaj ostatni akapit (przypomnienie, gdzie skończyłeś)
-- Napisz JEDNO zdanie (ridiculous small powrót)
+- Napisz JEDNO zdanie (absurdalnie mały powrót / ridiculous small)
 
-Jestem z Tobą. Zacznij micro-start. Odezwę się za 10 minut. 💪
+Jestem z Tobą. Zacznij mikro-start. Odezwę się za 10 minut. 💪
 ```
 
 **Co robi:**
-- **Bez judgment** ("To OK, zdarza się")
-- **Gentle reminder** ("Wracasz do raportu?")
-- **Micro-start** (ridiculous small powrót - łatwiejszy niż "wróć do zadania")
-- **Support** ("Jestem z Tobą")
+- **Bez osądzania (Bez judgment)**: "To OK, zdarza się"
+- **Delikatne przypomnienie (Gentle reminder)**: "Wracasz do raportu?"
+- **Mikro-start** - absurdalnie mały powrót (ridiculous small) - łatwiejszy niż "wróć do zadania"
+- **Wsparcie (Support)**: "Jestem z Tobą"
 
 ---
 
-### **5. Recovery Suggestions**
+### **5. Sugestie Odpoczynku (Recovery Suggestions)**
 
 **Ty:**
 ```
-Jestem zmęczony. Trudność z focus.
+Jestem zmęczony. Trudność z fokusem.
 ```
 
 **AI:**
 ```
-**Zrozumiałe. Zmęczenie to normalne** (szczególnie po długim focus).
+**Zrozumiałe. Zmęczenie to normalne** (szczególnie po długim fokusie).
 
-**Sugestia: Recovery (10-15 minut)**
+**Sugestia: Odpoczynek (Recovery - 10-15 minut)**
 
 **Co robić:**
 - Spacer (ruch - reset mózgu)
-- Woda / herbata (hydration)
-- Stretching (rozluźnienie)
-- Power nap (jeśli bardzo zmęczony - 15-20 min)
+- Woda / herbata (nawodnienie / hydration)
+- Rozciąganie (Stretching - rozluźnienie)
+- Drzemka energetyzująca (Power nap - jeśli bardzo zmęczony - 15-20 min)
 
 **NIE:**
-- Social media (więcej input → większe zmęczenie)
+- Social media (więcej bodźców / input → większe zmęczenie)
 - "Produktywna przerwa" (to nie przerwa!)
 
 **Wracaj, gdy poczujesz się lepiej.** Jestem tu, gdy będziesz gotowy. 😊
 ```
 
 **Co robi:**
-- Pozwala odpocząć (bez guilt)
-- Podaje konkretne recovery actions
-- Ostrzega przed "fake recovery" (social media)
+- Pozwala odpocząć (bez poczucia winy / guilt)
+- Podaje konkretne działania odpoczynkowe (recovery actions)
+- Ostrzega przed "fałszywym odpoczynkiem" (fake recovery - social media)
 
 ---
 
-## 🔄 Typowy Workflow
+## 🔄 Typowy Przepływ Pracy (Workflow)
 
 ### **Scenariusz: "Nie mogę zacząć raportu"**
 
@@ -276,9 +276,9 @@ Nie mogę zacząć: Napisać raport. Deadline jutro. Paraliż.
 
 **AI:**
 ```
-**Zrozumiałe. Paraliż wykonawczy + deadline stress.**
+**Zrozumiałe. Paraliż wykonawczy + stres deadline (deadline stress).**
 
-**Micro-start (ridiculous small):**
+**Mikro-start (Micro-start) - absurdalnie małe (ridiculous small):**
 
 **KROK 1:** Otwórz plik raportu. Tylko to. 2 sekundy.
 **Gotowy?** Zrób to TERAZ.
@@ -288,7 +288,7 @@ Nie mogę zacząć: Napisać raport. Deadline jutro. Paraliż.
 
 ---
 
-**KROK 2: Pierwszy Micro-Start**
+**KROK 2: Pierwszy Mikro-Start**
 
 **Ty:**
 ```
@@ -307,7 +307,7 @@ Zrobione. Plik otwarty.
 
 ---
 
-**KROK 3: Momentum**
+**KROK 3: Rozpęd (Momentum)**
 
 **Ty:**
 ```
@@ -321,16 +321,16 @@ Zrobione. Tytuł napisany.
 - Plik otwarty ✅
 - Tytuł ✅
 
-**Pytanie:** Czy chcesz kontynuować (momentum)? Czy potrzebujesz body doubling (check-ins)?
+**Pytanie:** Czy chcesz kontynuować (rozpęd / momentum)? Czy potrzebujesz body doubling (meldunki / check-ins)?
 
 **Opcje:**
-A) Kontynuuję sam (momentum działa)
-B) Potrzebuję body doubling (check-ins co 10 min)
+A) Kontynuuję sam (rozpęd działa)
+B) Potrzebuję body doubling (meldunki co 10 min)
 ```
 
 ---
 
-**KROK 4: Body Doubling Session**
+**KROK 4: Sesja Body Doubling (Body Doubling Session)**
 
 **Ty:**
 ```
@@ -339,11 +339,11 @@ B - potrzebuję body doubling. Sesja 1 godzina.
 
 **AI:**
 ```
-**Rozpoczynam sesję body doubling!**
+**Rozpoczynam sesję body doubling (towarzyszenia w pracy)!**
 
 - Zadanie: Raport
 - Czas: 1 godzina
-- Check-ins: Co 10 minut
+- Meldunki (Check-ins): Co 10 minut
 
 **Co teraz robisz?** (Np. "Piszę wstęp")
 
@@ -352,13 +352,13 @@ Jestem z Tobą. Odezwę się za 10 minut. Powodzenia! 💪
 
 ---
 
-**KROK 5: Check-Ins (Repeat)**
+**KROK 5: Meldunki (Check-Ins) - Powtarzaj (Repeat)**
 
 **(Po 10 min)**
 
 **AI:**
 ```
-**Check-in! 🔔** Co udało się? Jak się czujesz?
+**Meldunek / Check-in! 🔔** Co udało się? Jak się czujesz?
 ```
 
 **Ty:**
@@ -368,16 +368,16 @@ Napisałem wstęp (3 akapity). Czuję się ok, kontynuuję.
 
 **AI:**
 ```
-**Świetny progress!** Wstęp ✅ (3 akapity). Kontynuuj. Odezwę się za 10 minut. 💪
+**Świetny postęp (progress)!** Wstęp ✅ (3 akapity). Kontynuuj. Odezwę się za 10 minut. 💪
 ```
 
 ---
 
-**(Po kolejnych check-ins - stuck moment)**
+**(Po kolejnych meldunkach - moment zablokowania / stuck moment)**
 
 **AI:**
 ```
-**Check-in! 🔔** Jak tam raport?
+**Meldunek / Check-in! 🔔** Jak tam raport?
 ```
 
 **Ty:**
@@ -389,7 +389,7 @@ Zgubiłem się. Scrollowałem internet.
 ```
 **To OK!** 😊 Zdarza się.
 
-**Wracasz do raportu?** Micro-start: Przeczytaj ostatni akapit + napisz jedno zdanie.
+**Wracasz do raportu?** Mikro-start: Przeczytaj ostatni akapit + napisz jedno zdanie.
 
 Jestem z Tobą. Zacznij TERAZ. Odezwę się za 10 minut. 💪
 ```
@@ -409,9 +409,9 @@ Skończyłem raport! Deadline jutro - mam to z głowy.
 
 **Podsumowanie sesji:**
 - Czas: 1 godzina
-- Progress: Raport dokończony ✅
-- Check-ins: 6x
-- Stuck moments: 1x (internet - ale wróciłeś!)
+- Postęp (Progress): Raport dokończony ✅
+- Meldunki (Check-ins): 6x
+- Momenty zablokowania (Stuck moments): 1x (internet - ale wróciłeś!)
 
 **Od paraliżu → dokończony raport. TO BYŁA ŚWIETNA ROBOTA!**
 
@@ -420,9 +420,9 @@ Pamiętaj: Byłem tylko **z Tobą**. **TY zrobiłeś** całą robotę. 🤝
 
 ---
 
-## 🧩 Przykłady Użycia (Real Scenarios)
+## 🧩 Przykłady Użycia - Rzeczywiste Scenariusze (Real Scenarios)
 
-### **Scenariusz 1: "Overwhelm - za dużo zadań"**
+### **Scenariusz 1: "Przytłoczenie (Overwhelm) - za dużo zadań"**
 
 **Ty:**
 ```
@@ -432,30 +432,30 @@ Paraliż. Mam:
 3. Naczynia
 4. Pranie
 
-Nie mogę zacząć niczego. Overwhelm.
+Nie mogę zacząć niczego. Przytłoczenie (Overwhelm).
 ```
 
 **AI:**
 ```
-**Zrozumiałe. Overwhelm (za dużo → paraliż).**
+**Zrozumiałe. Przytłoczenie (Overwhelm - za dużo → paraliż).**
 
-**Nie próbuj robić wszystkiego. Zacznij od JEDNEGO micro-step.**
+**Nie próbuj robić wszystkiego. Zacznij od JEDNEGO mikro-kroku (micro-step).**
 
 **Pytanie:** Które NAJPILNIEJSZE? → Raport (deadline jutro) = RED
 
-**Ignoruj resztę** (na razie). Focus tylko na raporcie.
+**Ignoruj resztę** (na razie). Fokus tylko na raporcie.
 
 ---
 
-**Micro-start (Raport):**
+**Mikro-start (Micro-start) - Raport:**
 **KROK 1:** Otwórz plik raportu. Tylko to. 2 sekundy.
 **Gotowy?** Zrób TERAZ. Nie myśl o reszcie.
 ```
 
 **Rezultat:**
 - Priorytetyzacja (wybór NAJPILNIEJSZEGO)
-- "Ignoruj resztę" (zmniejsza overwhelm)
-- Micro-start (ridiculous small)
+- "Ignoruj resztę" (zmniejsza przytłoczenie / overwhelm)
+- Mikro-start - absurdalnie małe (ridiculous small)
 
 ---
 
@@ -471,25 +471,25 @@ Nie mogę zacząć prezentacji. Musi być perfekcyjna. Lęk.
 **Zrozumiałe. Perfekcjonizm + lęk przed błędem → paraliż.**
 
 **Kluczowe zrozumienie:**
-> Nie musisz zacząć od "perfekcyjnej prezentacji". Zacznij od "ridiculous small draft".
+> Nie musisz zacząć od "perfekcyjnej prezentacji". Zacznij od "absurdalnie małego szkicu" (ridiculous small draft).
 
-**Micro-start:**
+**Mikro-start (Micro-start):**
 **KROK 1:** Stwórz pusty plik prezentacji. Tylko to. 5 sekund.
 **KROK 2:** Napisz tytuł. Tylko tytuł (może być niedoskonały). 10 sekund.
 
-**Nie myśl o końcowym rezultacie.** Tylko o NASTĘPNYM ridiculous small kroku.
+**Nie myśl o końcowym rezultacie.** Tylko o NASTĘPNYM absurdalnie małym (ridiculous small) kroku.
 
 **Gotowy?** Zrób KROK 1 TERAZ.
 ```
 
 **Rezultat:**
-- Validacja lęku ("Zrozumiałe")
-- Reframing ("nie musisz perfekcyjnie - tylko draft")
-- Micro-start (obejście perfekcjonizmu)
+- Walidacja lęku (Validation): "Zrozumiałe"
+- Przeformułowanie (Reframing): "nie musisz perfekcyjnie - tylko szkic / draft"
+- Mikro-start (obejście perfekcjonizmu)
 
 ---
 
-### **Scenariusz 3: "Długi task - łatwo się rozpraszam"**
+### **Scenariusz 3: "Długie zadanie - łatwo się rozpraszam"**
 
 **Ty:**
 ```
@@ -498,22 +498,22 @@ Muszę pisać kod (3 godziny). Łatwo się rozpraszam. Pomóż.
 
 **AI:**
 ```
-**Zrozumiałe. Długi task + ADHD attention span = trudność.**
+**Zrozumiałe. Długie zadanie + zakres uwagi ADHD (ADHD attention span) = trudność.**
 
-**Rozwiązanie: Body Doubling (check-ins co 15 minut)**
+**Rozwiązanie: Body Doubling (towarzyszenie) - meldunki (check-ins) co 15 minut**
 
 **Plan:**
-1. Zacznij micro-start: Otwórz edytor kodu (2 sekundy)
-2. Body doubling: Check-ins co 15 minut
-3. Gentle nudges: Jeśli rozproszenie → przypominam
+1. Zacznij mikro-start: Otwórz edytor kodu (2 sekundy)
+2. Body doubling: Meldunki (Check-ins) co 15 minut
+3. Delikatne podpowiedzi (Gentle nudges): Jeśli rozproszenie → przypominam
 
 **Gotowy?** Zacznij KROK 1. Potem powiedz "zrobione" → zaczynam body doubling.
 ```
 
 **Rezultat:**
-- Body doubling dla długiego taska
-- Check-ins (gentle reminders - powrót do focus)
-- Accountability (AI towarzyszy przez 3 godziny)
+- Body doubling dla długiego zadania
+- Meldunki (Check-ins) - delikatne przypomnienia (gentle reminders) - powrót do fokusu
+- Odpowiedzialność (Accountability) - AI towarzyszy przez 3 godziny
 
 ---
 
@@ -525,36 +525,36 @@ Muszę pisać kod (3 godziny). Łatwo się rozpraszam. Pomóż.
 **To OK!** (Nie musisz dokończyć wszystkiego.)
 
 **Co zrobione:**
-- Przed: Paraliż (0 progress, stuck)
-- Po micro-start: Plik otwarty + tytuł + 2 akapity
-- **To JEST progress** (nie zero!)
+- Przed: Paraliż (0 postępu / progress, zablokowany / stuck)
+- Po mikro-starcie: Plik otwarty + tytuł + 2 akapity
+- **To JEST postęp (progress)** - nie zero!
 
 **Co robić:**
-- Zapisz progress (nie tracisz tego, co zrobiłeś)
+- Zapisz postęp (nie tracisz tego, co zrobiłeś)
 - Oceń: Czy deadline RED (musisz kontynuować)? Czy YELLOW (możesz jutro)?
-- Jeśli zmęczony: Recovery (odpoczynek) + próba jutro
+- Jeśli zmęczony: Odpoczynek (Recovery) + próba jutro
 
 **Kluczowe:**
-> Progress ≠ dokończenie. **Każdy micro-step = progress** (więcej niż 0).
+> Postęp (Progress) ≠ dokończenie. **Każdy mikro-krok (micro-step) = postęp** (więcej niż 0).
 
 ---
 
-### **2. Co jeśli check-ins mnie rozpraszają?**
+### **2. Co jeśli meldunki (check-ins) mnie rozpraszają?**
 
 **Odpowiedź:**
 **Zmień częstotliwość** (zamiast 10 min → 20 min lub 30 min).
 
 **Opcje:**
-- Check-in co 10 min (jeśli często się rozpraszasz - potrzebujesz częstych gentle nudges)
-- Check-in co 20-30 min (jeśli rzadko się rozpraszasz - wolisz dłuższy nieprzerwany focus)
-- **Brak check-ins** (tylko micro-start - jeśli momentum działa sam)
+- Meldunek (Check-in) co 10 min (jeśli często się rozpraszasz - potrzebujesz częstych delikatnych podpowiedzi / gentle nudges)
+- Meldunek co 20-30 min (jeśli rzadko się rozpraszasz - wolisz dłuższy nieprzerwany fokus)
+- **Brak meldunków** (tylko mikro-start - jeśli rozpęd / momentum działa sam)
 
 **Jak zmienić:**
-- Powiedz AI: "Chcę check-ins co 20 minut" (AI dostosuje)
+- Powiedz AI: "Chcę meldunki (check-ins) co 20 minut" (AI dostosuje)
 
 ---
 
-### **3. Co jeśli AI daje micro-step, który NIE jest ridiculous small?**
+### **3. Co jeśli AI daje mikro-krok (micro-step), który NIE jest absurdalnie mały (ridiculous small)?**
 
 **Odpowiedź:**
 **Powiedz AI, że za duży** (AI zmniejszy).
@@ -563,7 +563,7 @@ Muszę pisać kod (3 godziny). Łatwo się rozpraszam. Pomóż.
 
 **AI:**
 ```
-Micro-start: Napisz wstęp raportu.
+Mikro-start: Napisz wstęp raportu.
 ```
 
 **Ty:**
@@ -575,7 +575,7 @@ To za duże. Wstęp = 5+ zdań. Mniejszy krok?
 ```
 **Masz rację! Zmniejszam.**
 
-**Micro-start:** Napisz JEDNO zdanie wstępu. Tylko jedno. 30 sekund.
+**Mikro-start:** Napisz JEDNO zdanie wstępu. Tylko jedno. 30 sekund.
 **Gotowy?** Napisz TERAZ.
 ```
 
@@ -591,15 +591,15 @@ To za duże. Wstęp = 5+ zdań. Mniejszy krok?
 
 **Kiedy używać:**
 - ✅ Paraliż (nie możesz zacząć)
-- ✅ Długie taski (>30 min - łatwo się rozpraszasz)
+- ✅ Długie zadania (>30 min - łatwo się rozpraszasz)
 - ✅ Brak motywacji (rutynowe, brak 4 C's)
 
 **Kiedy NIE używać:**
-- ⚠️ Momentum działa sam (już w flow - nie potrzebujesz AI)
-- ⚠️ Krótkie taski (<10 min - micro-start wystarczy, body doubling unnecessary)
+- ⚠️ Rozpęd (Momentum) działa sam (już w przepływie / flow - nie potrzebujesz AI)
+- ⚠️ Krótkie zadania (<10 min - mikro-start wystarczy, body doubling niepotrzebne / unnecessary)
 
 **Kluczowe:**
-> To **narzędzie** (nie must). Używaj, gdy potrzebujesz.
+> To **narzędzie** (nie konieczność / must). Używaj, gdy potrzebujesz.
 
 ---
 
@@ -624,37 +624,37 @@ To za duże. Wstęp = 5+ zdań. Mniejszy krok?
 ### **Kluczowe wnioski:**
 
 1. **Micro-Start Coach + Body Doubling AI:**
-   - Micro-start generator (ridiculous small pierwsze kroki)
-   - Body doubling (check-ins, progress validation, gentle nudges)
-   - Progress tracking (zamyka pętle emocjonalne)
+   - Generator mikro-startów (Micro-start generator) - absurdalnie małe (ridiculous small) pierwsze kroki
+   - Body doubling (towarzyszenie w pracy) - meldunki (check-ins), walidacja postępu (progress validation), delikatne podpowiedzi (gentle nudges)
+   - Śledzenie postępu (Progress tracking) - zamyka pętle emocjonalne
 
 2. **2 opcje:**
    - Custom GPT: Szybkie (wymaga Plus)
-   - Projekt: DARMOWY, z pamięcią (5 min setup)
+   - Projekt: DARMOWY, z pamięcią (5 min konfiguracji / setup)
 
 3. **Funkcje:**
-   - Micro-Start Generator ("Otwórz plik - 2 sekundy")
-   - Body Doubling (check-ins co X minut)
-   - Progress Validation ("Tytuł + 2 akapity = progress!")
-   - Gentle Nudges ("Zgubiłeś się? To OK. Wracasz?")
-   - Recovery Suggestions ("Zmęczony? Weź 10 min recovery")
+   - Generator Mikro-Startów (Micro-Start Generator): "Otwórz plik - 2 sekundy"
+   - Body Doubling (meldunki / check-ins co X minut)
+   - Walidacja Postępu (Progress Validation): "Tytuł + 2 akapity = postęp (progress)!"
+   - Delikatne Podpowiedzi (Gentle Nudges): "Zgubiłeś się? To OK. Wracasz?"
+   - Sugestie Odpoczynku (Recovery Suggestions): "Zmęczony? Weź 10 min odpoczynku (recovery)"
 
-4. **Typowy workflow:**
-   - Paraliż → Micro-start (pierwszy krok)
-   - Body doubling session (check-ins co 10-15 min)
-   - Progress validation (każdy krok)
-   - Gentle nudges (gdy rozproszenie)
+4. **Typowy przepływ pracy (workflow):**
+   - Paraliż → Mikro-start (pierwszy krok)
+   - Sesja body doubling (meldunki / check-ins co 10-15 min)
+   - Walidacja postępu (progress validation - każdy krok)
+   - Delikatne podpowiedzi (gentle nudges - gdy rozproszenie)
    - Dokończenie (podsumowanie)
 
-5. **Real scenarios:**
-   - Overwhelm → priorytetyzacja + micro-start
-   - Perfekcjonizm → reframing + ridiculous small draft
-   - Długi task → body doubling (check-ins przez cały czas)
+5. **Rzeczywiste scenariusze (Real scenarios):**
+   - Przytłoczenie (Overwhelm) → priorytetyzacja + mikro-start
+   - Perfekcjonizm → przeformułowanie (reframing) + absurdalnie mały szkic (ridiculous small draft)
+   - Długie zadanie → body doubling (meldunki / check-ins przez cały czas)
 
 6. **FAQ:**
-   - Nie dokończenie = OK (progress ≠ dokończenie)
-   - Check-ins rozpraszają → zmień częstotliwość
-   - Micro-step za duży → powiedz AI, zmniejszy
+   - Nie dokończenie = OK (postęp / progress ≠ dokończenie)
+   - Meldunki (Check-ins) rozpraszają → zmień częstotliwość
+   - Mikro-krok za duży → powiedz AI, zmniejszy
    - Nie dla każdego zadania (tylko gdy potrzebujesz)
    - Tradycyjne body doubling > AI (ale AI gdy niedostępne)
 
@@ -666,9 +666,9 @@ To za duże. Wstęp = 5+ zdań. Mniejszy krok?
 
 1. **Wybierz opcję:** Custom GPT (link) lub Projekt (instrukcje)
 2. **Wklej:** "Nie mogę zacząć: [zadanie]"
-3. **Wykonaj:** Micro-start (ridiculous small pierwszy krok)
-4. **Body doubling:** Start session (check-ins co 10-15 min)
-5. **Kontynuuj:** AI towarzyszy przez cały task
+3. **Wykonaj:** Mikro-start (Micro-start) - absurdalnie mały (ridiculous small) pierwszy krok
+4. **Body doubling:** Rozpocznij sesję (Start session) - meldunki (check-ins) co 10-15 min
+5. **Kontynuuj:** AI towarzyszy przez całe zadanie
 
 **Testuj przez tydzień** → Sprawdź, czy działa dla Ciebie.
 
@@ -679,15 +679,15 @@ To za duże. Wstęp = 5+ zdań. Mniejszy krok?
 **Co opanowałeś:**
 
 ✅ **Rozumiesz paraliż wykonawczy** (neurobiologia, nie lenistwo)
-✅ **Opanowałeś micro-start technique** ("ridiculous small" pierwszy krok)
-✅ **Znasz body doubling** (AI jako companion - obecność, nie pomoc)
+✅ **Opanowałeś technikę mikro-startu (micro-start technique)** - "absurdalnie małe" (ridiculous small) pierwszy krok
+✅ **Znasz body doubling (towarzyszenie w pracy)** - AI jako towarzysz (companion) - obecność, nie pomoc
 ✅ **Masz narzędzie AI** (Micro-Start Coach + Body Doubling - zawsze dostępny)
 
 **Co dalej:**
 - Używaj narzędzia (gdy paraliż)
 - Testuj (sprawdź, co działa dla Ciebie)
-- Dopasuj (zmień częstotliwość check-ins, micro-steps size)
-- Integruj z innymi modułami (Lead Days + Sprinty + Micro-Start + Body Doubling)
+- Dopasuj (zmień częstotliwość meldunków / check-ins, wielkość mikro-kroków / micro-steps size)
+- Integruj z innymi modułami (System Odliczania Dni / Lead Days + Sprinty + Mikro-Start + Body Doubling)
 
 ---
 
